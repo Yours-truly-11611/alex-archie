@@ -1,4 +1,5 @@
-+++
-author = "Hugo Authors"
-+++
+---
+title: "Alex Again"
+type: "list"
+---
 
