@@ -1,0 +1,50 @@
+baseURL = "http://alexagain.com" # IMPORTANT: Change this to your domain!
+languageCode = "en-us"
+title = "Alex Again"
+theme = "archie"
+copyright = "© Athul"
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourDisqusShortname"
+
+[pagination]
+  pagerSize = 3 # articles per page
+
+[params]
+	mode="light" # color-mode → light,dark,toggle or auto
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+	subtitle = "Simple things written with pleasure"
+	mathjax = true # enable MathJax support
+	katex = true # enable KaTeX support
+
+# Social Tags
+
+[[params.social]]
+name = "Instagram"
+icon = "instagram"
+url = ""
+
+# Main menu Items
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4

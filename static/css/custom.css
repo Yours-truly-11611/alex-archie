@@ -1,0 +1,53 @@
+/*
+ * Custom styles to override the Archie theme defaults.
+ */
+
+/* Target the main footer wrapper */
+.site-footer {
+    /*
+     * We use !important to ensure this style takes precedence 
+     * over any conflicting rules in the theme's default CSS.
+     */
+    border-top: 2px dashed #ff0000 !important; /* 2px dashed red */
+}
+
+/* Removes any generated content (like the '#' or '::before' styles) */
+h1::before, 
+h2::before, 
+h3::before,
+h4::before, 
+h5::before,
+h6::before {
+    content: none !important;
+}
+
+/* --- H1: Primary Title Style --- */
+.post-content h1 {
+    font-size: 2.5em; /* Larger size */
+    font-weight: 700; /* Extra bold */
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    border-bottom: none !important; /* Ensure no line under the main title */
+}
+
+/* --- H2: Main Section Header/Sub-Header Style --- */
+.post-content h2 {
+    font-size: 1.8em;
+    font-weight: 600;
+    color: #333333; /* Darker gray for section headers */
+    margin-top: 1.2em;
+    margin-bottom: 0.8em;
+    /* Adding a light, simple underline for emphasis */
+    border-bottom: 1px solid #eeeeee; 
+    padding-bottom: 5px;
+}
+
+/* --- H3: Sub-Section Header Style --- */
+.post-content h3 {
+    font-size: 1.3em;
+    font-weight: 600;
+    color: #444444;
+    margin-top: 1em;
+    margin-bottom: 0.4em;
+}
+
