@@ -7,14 +7,12 @@ draft = false
 categories = []
 author = 'Alex'
 aliases = ['about-us', 'contact']
-lastmod = '2025-11-18T23:15:04.858823Z'
+lastmod = '2025-11-18T23:21:09.879170Z'
 
 +++
 
 
 Everything on this site is a work in progress.
-
-![Working the spinnaker](/images/2025/11/DC0107A0-DF30-47BE-8113-959007DB70C5-13154-000004D2FBF3CF26.jpg)
 
 
 ## Name
