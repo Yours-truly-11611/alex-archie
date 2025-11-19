@@ -7,7 +7,7 @@ draft = false
 categories = []
 author = 'Alex'
 aliases = ['about-us', 'contact']
-lastmod = '2025-11-18T23:21:09.879170Z'
+lastmod = '2025-11-19T01:44:13.939816Z'
 
 +++
 
@@ -43,7 +43,7 @@ Subject to change.
 ## Favorite Movies
 - Bladerunner: 2049
 - The Lord of the Rings Trilogy
-- 
+- Seven Samurai
 
 
 
