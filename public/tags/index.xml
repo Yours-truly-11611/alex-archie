@@ -7,34 +7,27 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Athul</copyright>
-    <lastBuildDate>Wed, 01 Apr 2020 02:01:58 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 19 Nov 2025 02:19:31 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Primer</title>
-      <link>http://localhost:1313/tags/primer/</link>
-      <pubDate>Wed, 01 Apr 2020 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/tags/primer/</guid>
+      <title>Letter</title>
+      <link>http://localhost:1313/tags/letter/</link>
+      <pubDate>Wed, 19 Nov 2025 02:01:43 +0000</pubDate>
+      <guid>http://localhost:1313/tags/letter/</guid>
       <description></description>
     </item>
     <item>
-      <title>Todo</title>
-      <link>http://localhost:1313/tags/todo/</link>
-      <pubDate>Wed, 01 Apr 2020 02:01:58 +0530</pubDate>
-      <guid>http://localhost:1313/tags/todo/</guid>
+      <title>Blog</title>
+      <link>http://localhost:1313/tags/blog/</link>
+      <pubDate>Tue, 18 Nov 2025 23:10:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/blog/</guid>
       <description></description>
     </item>
     <item>
-      <title>Procrastinating</title>
-      <link>http://localhost:1313/tags/procrastinating/</link>
-      <pubDate>Sun, 18 Mar 2018 12:13:32 +0530</pubDate>
-      <guid>http://localhost:1313/tags/procrastinating/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Space</title>
-      <link>http://localhost:1313/tags/space/</link>
-      <pubDate>Sun, 18 Mar 2018 12:13:30 +0530</pubDate>
-      <guid>http://localhost:1313/tags/space/</guid>
+      <title>Project</title>
+      <link>http://localhost:1313/tags/project/</link>
+      <pubDate>Tue, 18 Nov 2025 23:10:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/project/</guid>
       <description></description>
     </item>
   </channel>
