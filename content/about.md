@@ -7,7 +7,7 @@ draft = false
 categories = []
 author = 'Alex'
 aliases = ['about-us', 'contact']
-lastmod = '2025-11-19T01:44:13.939816Z'
+lastmod = '2025-11-20T16:07:42.308912Z'
 
 +++
 
@@ -34,7 +34,7 @@ Subject to change.
 - Stardew Valley
 
 {{< custombox src="images/2025/11/hobie.jpg" 
-alt="Alex on a Hobie with a friend n front of The Sleeping Giant" >}}
+alt="Alex on a Hobie with a friend in front of The Sleeping Giant" >}}
 
 ## Favorite Books
 - The Fall | Albert Camus
