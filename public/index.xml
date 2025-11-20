@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alex Again</title>
-    <link>http://localhost:1313/</link>
+    <link>http://alexagain.com/</link>
     <description>Recent content on Alex Again</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Athul</copyright>
     <lastBuildDate>Wed, 19 Nov 2025 02:19:31 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://alexagain.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unsent Letter to a Nice man in Taiwan</title>
-      <link>http://localhost:1313/posts/unsent_letter_to_a_nice_man_in_taiwan/</link>
+      <link>http://alexagain.com/posts/unsent_letter_to_a_nice_man_in_taiwan/</link>
       <pubDate>Wed, 19 Nov 2025 02:01:43 +0000</pubDate>
-      <guid>http://localhost:1313/posts/unsent_letter_to_a_nice_man_in_taiwan/</guid>
+      <guid>http://alexagain.com/posts/unsent_letter_to_a_nice_man_in_taiwan/</guid>
       <description>&lt;p&gt;Thank you mysterious toothless man, for the free bunch of bananas and the free Russian grammar book.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m glad you liked my song so much; the white beach and blue ocean really set the mood for it. It was pretty windy that day! You must have tied your loincloth pretty tight. Is that all you wear, every day?&lt;/p&gt;&#xA;&lt;p&gt;Do you make your living selling used books out of your truck by the beach? You seemed pretty happy, with your bananas and books. The white loincloth really matches your hair.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vibe-coding with Hugo</title>
-      <link>http://localhost:1313/posts/vibe-coding_with_hugo/</link>
+      <link>http://alexagain.com/posts/vibe-coding_with_hugo/</link>
       <pubDate>Tue, 18 Nov 2025 23:10:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vibe-coding_with_hugo/</guid>
+      <guid>http://alexagain.com/posts/vibe-coding_with_hugo/</guid>
       <description>&lt;p&gt;This is my second attempt at a simple blog made with static site generator Hugo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://alexagain.com/about/</link>
       <pubDate>Tue, 18 Nov 2025 05:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Everything on this site is a work in progress.&lt;/p&gt;&#xA;&lt;h2 id=&#34;name&#34;&gt;Name&lt;/h2&gt;&#xA;&lt;p&gt;Alex&lt;/p&gt;&#xA;&lt;h2 id=&#34;location&#34;&gt;Location&lt;/h2&gt;&#xA;&lt;p&gt;Ontario, Canada (previously Victoria, Australia, and even previously-er, Colorado, USA)&lt;/p&gt;&#xA;&lt;p&gt;Subject to change.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Painting&lt;/li&gt;&#xA;&lt;li&gt;Gardening&lt;/li&gt;&#xA;&lt;li&gt;Tinkering&lt;/li&gt;&#xA;&lt;li&gt;Sailing&lt;/li&gt;&#xA;&lt;li&gt;Hiking&lt;/li&gt;&#xA;&lt;li&gt;Reading&lt;/li&gt;&#xA;&lt;li&gt;Experimenting in the kitchen&lt;/li&gt;&#xA;&lt;li&gt;Stardew Valley&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;figure class=&#34;text-center my-4&#34;&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/images/2025/11/hobie.jpg&#34; alt=&#34;Descriptive text for SEO&#34; title=&#34;Main Image Title&#34; loading=&#34;lazy&#34; /&gt;&#xA;    &#xA;    &#xA;        &lt;figcaption class=&#34;text-center&#34;&gt;&#xA;            &#xA;                &lt;h5 class=&#34;caption-title&#34;&gt;Main Image Title&lt;/h5&gt;&#xA;            &#xA;            &#xA;            &#xA;                &lt;p class=&#34;mt-0 small-caption&#34;&gt;&#xA;                    &#xA;                        A short description of the image.&#xA;                    &#xA;                    &#xA;                        &lt;small&gt;— Photo by Alex&lt;/small&gt;&#xA;                    &#xA;                &lt;/p&gt;&#xA;            &#xA;        &lt;/figcaption&gt;&#xA;    &#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;favorite-books&#34;&gt;Favorite Books&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Fall | Albert Camus&lt;/li&gt;&#xA;&lt;li&gt;How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen | David Brooks&lt;/li&gt;&#xA;&lt;li&gt;East of Eden | John Steinbeck&lt;/li&gt;&#xA;&lt;li&gt;That illegal audiobook rendition of the Lord of the Rings Trilogy (I couldn&amp;rsquo;t read it otherwise)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;favorite-movies&#34;&gt;Favorite Movies&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bladerunner: 2049&lt;/li&gt;&#xA;&lt;li&gt;The Lord of the Rings Trilogy&lt;/li&gt;&#xA;&lt;li&gt;Seven Samurai&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://alexagain.com/about/</guid>
+      <description>&lt;p&gt;Everything on this site is a work in progress.&lt;/p&gt;&#xA;&lt;h2 id=&#34;name&#34;&gt;Name&lt;/h2&gt;&#xA;&lt;p&gt;Alex&lt;/p&gt;&#xA;&lt;h2 id=&#34;location&#34;&gt;Location&lt;/h2&gt;&#xA;&lt;p&gt;Ontario, Canada (previously Victoria, Australia, and even previously-er, Colorado, USA)&lt;/p&gt;&#xA;&lt;p&gt;Subject to change.&lt;/p&gt;&#xA;&lt;h2 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Painting&lt;/li&gt;&#xA;&lt;li&gt;Gardening&lt;/li&gt;&#xA;&lt;li&gt;Tinkering&lt;/li&gt;&#xA;&lt;li&gt;Sailing&lt;/li&gt;&#xA;&lt;li&gt;Hiking&lt;/li&gt;&#xA;&lt;li&gt;Reading&lt;/li&gt;&#xA;&lt;li&gt;Experimenting in the kitchen&lt;/li&gt;&#xA;&lt;li&gt;Stardew Valley&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;figure &gt;&#xA;&#xA;  &#xA;&#xA;    &lt;img class=&#34;rounded&#34; src=&#34;http://alexagain.com/images/2025/11/hobie.jpg&#34;&#xA;        &#xA;          alt=&#34;Alex on a Hobie with a friend n front of The Sleeping Giant&#34;&#xA;         &#xA;    /&gt;&#xA;&#xA;    &#xA;    &#xA;&lt;/figure&gt;&#xA;&#xA;&lt;h2 id=&#34;favorite-books&#34;&gt;Favorite Books&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Fall | Albert Camus&lt;/li&gt;&#xA;&lt;li&gt;How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen | David Brooks&lt;/li&gt;&#xA;&lt;li&gt;East of Eden | John Steinbeck&lt;/li&gt;&#xA;&lt;li&gt;That illegal audiobook rendition of the Lord of the Rings Trilogy (I couldn&amp;rsquo;t read it otherwise)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;favorite-movies&#34;&gt;Favorite Movies&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Bladerunner: 2049&lt;/li&gt;&#xA;&lt;li&gt;The Lord of the Rings Trilogy&lt;/li&gt;&#xA;&lt;li&gt;Seven Samurai&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project on Alex Again</title>
-    <link>http://localhost:1313/tags/project/</link>
+    <link>http://alexagain.com/tags/project/</link>
     <description>Recent content in Project on Alex Again</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Athul</copyright>
     <lastBuildDate>Wed, 19 Nov 2025 01:45:06 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://alexagain.com/tags/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vibe-coding with Hugo</title>
-      <link>http://localhost:1313/posts/vibe-coding_with_hugo/</link>
+      <link>http://alexagain.com/posts/vibe-coding_with_hugo/</link>
       <pubDate>Tue, 18 Nov 2025 23:10:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/vibe-coding_with_hugo/</guid>
+      <guid>http://alexagain.com/posts/vibe-coding_with_hugo/</guid>
       <description>&lt;p&gt;This is my second attempt at a simple blog made with static site generator Hugo.&lt;/p&gt;</description>
     </item>
   </channel>

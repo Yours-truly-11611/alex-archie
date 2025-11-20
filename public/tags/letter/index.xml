@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Letter on Alex Again</title>
-    <link>http://localhost:1313/tags/letter/</link>
+    <link>http://alexagain.com/tags/letter/</link>
     <description>Recent content in Letter on Alex Again</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Athul</copyright>
     <lastBuildDate>Wed, 19 Nov 2025 02:19:31 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/letter/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://alexagain.com/tags/letter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unsent Letter to a Nice man in Taiwan</title>
-      <link>http://localhost:1313/posts/unsent_letter_to_a_nice_man_in_taiwan/</link>
+      <link>http://alexagain.com/posts/unsent_letter_to_a_nice_man_in_taiwan/</link>
       <pubDate>Wed, 19 Nov 2025 02:01:43 +0000</pubDate>
-      <guid>http://localhost:1313/posts/unsent_letter_to_a_nice_man_in_taiwan/</guid>
+      <guid>http://alexagain.com/posts/unsent_letter_to_a_nice_man_in_taiwan/</guid>
       <description>&lt;p&gt;Thank you mysterious toothless man, for the free bunch of bananas and the free Russian grammar book.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m glad you liked my song so much; the white beach and blue ocean really set the mood for it. It was pretty windy that day! You must have tied your loincloth pretty tight. Is that all you wear, every day?&lt;/p&gt;&#xA;&lt;p&gt;Do you make your living selling used books out of your truck by the beach? You seemed pretty happy, with your bananas and books. The white loincloth really matches your hair.&lt;/p&gt;</description>
     </item>
   </channel>
