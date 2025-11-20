@@ -33,6 +33,9 @@ Subject to change.
 - Experimenting in the kitchen
 - Stardew Valley
 
+{{< custombox src="images/2025/11/hobie.jpg" 
+alt="Alex on a Hobie with a friend n front of The Sleeping Giant" >}}
+
 ## Favorite Books
 - The Fall | Albert Camus
 - How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen | David Brooks
