@@ -6,7 +6,7 @@ date = '2025-11-21T19:14:44.515876Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2025-11-21T19:20:11.575946Z'
+lastmod = '2025-11-21T19:20:52.631702Z'
 
 +++
 
@@ -22,6 +22,9 @@ Be cringe. It’s good for you. I will be cringe on this blog. I will write and 
 
 
 ![cringe goose](/images/2025/11/cringegoose.jpg)
+
+![cringe dog](/images/2025/11/746A074C-CB15-4FF7-AB70-98E88DB35937-17997-000008B0BAAD2CFB.jpg)
+
 
 
 
