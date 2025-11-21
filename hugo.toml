@@ -11,14 +11,14 @@ pygmentscodefencesguesssyntax = true
 #disqusShortname = "yourDisqusShortname"
 
 [pagination]
-  pagerSize = 3 # articles per page
+  pagerSize = 7 # articles per page
 
 [params]
 	mode="toggle" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle = "Simple things written with pleasure"
-	mathjax = true # enable MathJax support
-	katex = true # enable KaTeX support
+	mathjax = false # enable MathJax support
+	katex = false # enable KaTeX support
 
 # Social Tags
 
