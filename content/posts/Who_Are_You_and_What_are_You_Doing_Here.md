@@ -6,7 +6,7 @@ date = '2025-11-21T17:09:58.422753Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2025-11-21T19:22:50.305454Z'
+lastmod = '2025-11-21T19:24:12.730832Z'
 
 +++
 
@@ -26,6 +26,8 @@ A parent of a young child.
 A patchwork quilt.
 
 A discarded toy.
+
+A bridge.
 
 A stray dog.
 
