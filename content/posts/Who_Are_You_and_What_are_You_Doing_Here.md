@@ -6,7 +6,7 @@ date = '2025-11-21T17:09:58.422753Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2025-11-21T17:14:36.715061Z'
+lastmod = '2025-11-21T19:22:50.305454Z'
 
 +++
 
@@ -17,11 +17,11 @@ The spouse of a vagabond, learning to grow roots.
 
 A former vagabond myself. (What does it take to have a Home?)
 
-The parent of a young child.
-
 Filled with wonder and hope.
 
-A container for multitudes.
+A parent of a young child.
+
+## What are you reminded of?
 
 A patchwork quilt.
 
