@@ -10,20 +10,21 @@ lastmod = '2025-11-21T19:20:52.631702Z'
 
 +++
 
-
-![To be cringe is to be free](/images/2025/11/cringewolf.jpg)
+{{< custombox src="images/2025/11/cringewolf.jpg" 
+alt="Alex on a Hobie with a friend in front of The Sleeping Giant" >}}
 
 ## A REMINDER
 Be cringe. It’s good for you. I will be cringe on this blog. I will write and act in ways that don’t align with the image I want to present to others.
 
 
+{{< custombox src="images/2025/11/cringepath.jpg" 
+alt="Alex on a Hobie with a friend in front of The Sleeping Giant" >}}
 
-![cringe path](/images/2025/11/cringepath.jpg)
+{{< custombox src="images/2025/11/cringegoose.jpg" 
+alt="Alex on a Hobie with a friend in front of The Sleeping Giant" >}}
 
-
-![cringe goose](/images/2025/11/cringegoose.jpg)
-
-![cringe dog](/images/2025/11/746A074C-CB15-4FF7-AB70-98E88DB35937-17997-000008B0BAAD2CFB.jpg)
+{{< custombox src="images/2025/11/746A074C-CB15-4FF7-AB70-98E88DB35937-17997-000008B0BAAD2CFB.jpg" 
+alt="Alex on a Hobie with a friend in front of The Sleeping Giant" >}}
 
 
 
