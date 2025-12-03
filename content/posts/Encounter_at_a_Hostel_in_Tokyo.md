@@ -6,14 +6,16 @@ date = '2025-12-03T18:51:45.089454Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2025-12-03T19:26:17.079173Z'
+lastmod = '2025-12-03T19:28:32.893987Z'
 
 +++
 
 
-This is the story of how I met my husband.
+**This is the story of how I met my husband.**
 
 *tl;dr: It was my first day at a hostel, and it was his last. We went out for beer, played Mariokart, and he left. All within 12 hours. We got married later.*
+
+———
 
 Sleep deprived, hungry, and strapped for cash, I stood over the stove of the hostel kitchen burning some potatoes in a pan.
 
