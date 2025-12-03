@@ -6,7 +6,7 @@ date = '2025-12-03T19:41:11.404521Z'
 draft = true
 categories = []
 author = 'Alex'
-lastmod = '2025-12-03T20:00:29.637820Z'
+lastmod = '2025-12-03T20:07:32.380597Z'
 
 +++
 
@@ -38,4 +38,7 @@ Don’t be afraid to look stupid. You can’t know everything, especially when y
 ## The world is as safe or as dangerous as you let it be.
 
 ## When you are responsible for yourself and no one else, you shape up quickly.
+Got on the wrong train? That’s your fault. All the restaurants closed when you got in town? Too bad. Fumbled a potential date and ran away to another country? Oops.
+
+All you can do is **do better next time**. And the wonderful thing about wandering is that no one will know about your previous mistakes. You can build a better version of yourself every time you relocate, or even every morning, without the weight of the version of you that other people remember/expect you to be.
 
