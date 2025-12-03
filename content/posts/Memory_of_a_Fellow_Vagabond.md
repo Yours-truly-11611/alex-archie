@@ -2,11 +2,11 @@
 title = 'Memory of a Fellow Vagabond'
 description = ''
 tags = ['journal', 'travel', 'memory']
-date = '2025-12-03T02:24:51.066274Z'
+date = '2025-12-01T05:00:00.000Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2025-12-03T19:33:53.350844Z'
+lastmod = '2025-12-03T19:34:08.117090Z'
 
 +++
 
