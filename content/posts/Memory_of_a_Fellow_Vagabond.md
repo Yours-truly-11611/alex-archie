@@ -6,12 +6,12 @@ date = '2025-12-01T05:00:00.000Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2025-12-03T20:09:37.182237Z'
+lastmod = '2025-12-03T20:10:19.061682Z'
 
 +++
 
 
-One of the most memorable encounters during my 2 year stint as a vagabond was another traveller at a hostel in Christchurch, New Zealand. A modern, clean place that had an indoor turf area and outdoor stainless steel fire pits. It smelted like an airport in there.
+One of the most memorable encounters during my 2 year stint as a vagabond was another traveller at a hostel in Christchurch, New Zealand. A modern, clean place that had an indoor turf area and outdoor stainless steel fire pits, the kind of hostel that had “pods” rather than “bunks”. It smelted like an airport in there.
 
 What was notable was what *wasn’t* said. Usually, names are exchanged after the standard questions of “where are you from?” and “how long will you be here”, and goodbyes are peppered with hopeful phrases such as “maybe we’ll see each other again” or “let’s stay in touch. What’s your instagram?”. 
 
