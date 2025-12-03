@@ -6,7 +6,7 @@ date = '2025-12-03T02:24:51.066274Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2025-12-03T02:28:19.885829Z'
+lastmod = '2025-12-03T19:33:53.350844Z'
 
 +++
 
@@ -40,7 +40,7 @@ A: 6 months?
 
 S: About a year and a half now
 
-A: Ah, I see. Almost 2 years.
+A: Ah, I see. Almost 2 years for me.
 
 S: Haha, good luck then. Don’t go too fast.
 
