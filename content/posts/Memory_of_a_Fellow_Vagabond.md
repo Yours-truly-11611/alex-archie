@@ -6,7 +6,7 @@ date = '2025-12-01T05:00:00.000Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2025-12-03T20:12:01.385625Z'
+lastmod = '2025-12-03T20:13:01.545143Z'
 
 +++
 
@@ -47,6 +47,8 @@ S: Haha, good luck then. Don’t go too fast.
 A: Right back at you. Rest well, safe travels.
 
 S: Rest well and long.
+
+———
 
 No goodbyes. No swapping stories.
 
