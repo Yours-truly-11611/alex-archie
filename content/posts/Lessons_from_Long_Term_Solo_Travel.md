@@ -6,7 +6,7 @@ date = '2025-12-04T05:00:00.000Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2025-12-04T19:53:56.031763Z'
+lastmod = '2025-12-04T20:03:12.706683Z'
 
 +++
 
@@ -37,10 +37,10 @@ It’s just how it is after a while.
 
 ## Having expectations of what a place will be like will inevitably make you miserable.
 
-You have to see it as it is and learn to live it regardless. Some places will be easier for you to love than others.
+You have to see it as it is and learn to love it regardless. Some places will be easier for you to love than others.
 
 ## Find wonder in little things.
-How the light filters through the local flora. The sound of unfamiliar crossing signals. The selection of items in the local convenience store. Smells wafting from the restaurants or rivers. Hiw often you hear someone singing.
+How the light filters through the local flora. The sound of unfamiliar crossing signals. The selection of items in the local convenience store. Smells wafting from the restaurants or rivers. How often you hear someone singing.
 
 ## One selfless gesture sparks another.
 
@@ -58,4 +58,7 @@ Just be aware of your surroundings, no matter where you are.
 Got on the wrong train? That’s your fault. All the restaurants closed when you got in town? Too bad. Fumbled a potential date and ran away to another country? Oops.
 
 All you can do is **do better next time**. And the wonderful thing about wandering is that no one will know about your previous mistakes. You can build a better version of yourself every time you relocate, or even every morning, without the weight of the version of you that other people remember/expect you to be.
+
+## You can take this mindset back home.
+It helps you appreciate where you came from. How long have you taken it for granted? And if “home” isn’t clear yet, that’s fine too.
 
