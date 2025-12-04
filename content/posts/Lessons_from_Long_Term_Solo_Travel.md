@@ -2,11 +2,11 @@
 title = 'Lessons from Long Term Solo Travel'
 description = ''
 tags = ['travel']
-date = '2025-12-03T19:41:11.404521Z'
-draft = true
+date = '2025-12-04T05:00:00.000Z'
+draft = false
 categories = []
 author = 'Alex'
-lastmod = '2025-12-04T19:53:32.240609Z'
+lastmod = '2025-12-04T19:53:56.031763Z'
 
 +++
 
