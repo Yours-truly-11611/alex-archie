@@ -6,7 +6,7 @@ date = '2025-12-03T19:41:11.404521Z'
 draft = true
 categories = []
 author = 'Alex'
-lastmod = '2025-12-04T19:49:48.119639Z'
+lastmod = '2025-12-04T19:53:32.240609Z'
 
 +++
 
@@ -25,6 +25,7 @@ Everyone just wants to be treated with respect. Everyone enjoys being listened t
 But that doesn’t mean trust everyone blindly. There are also rascals in every country.
 
 ## Expect the best, plan for the worst.
+Be open to what the world has to offer and be ready for when it offers nothing but headaches.
 
 ## You’re a fool.
 And don’t try to act otherwise. No matter how well educated you are or how much status you have at home, it means nothing when you have to ask a stranger how to flush the toilet.
@@ -39,6 +40,7 @@ It’s just how it is after a while.
 You have to see it as it is and learn to live it regardless. Some places will be easier for you to love than others.
 
 ## Find wonder in little things.
+How the light filters through the local flora. The sound of unfamiliar crossing signals. The selection of items in the local convenience store. Smells wafting from the restaurants or rivers. Hiw often you hear someone singing.
 
 ## One selfless gesture sparks another.
 
