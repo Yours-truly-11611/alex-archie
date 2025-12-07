@@ -8,7 +8,6 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-googleAnalytics = “G-KL9934KP9”
 
 #disqusShortname = "yourDisqusShortname"
 
