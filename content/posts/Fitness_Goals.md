@@ -6,12 +6,12 @@ date = '2025-12-06T18:56:09.093289Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2025-12-06T19:27:29.536026Z'
+lastmod = '2025-12-07T15:08:22.491699Z'
 
 +++
 
 
-The importance of fitness has recently become apparent to me as I continue to recover from my old injuries first and pregnancy.
+The importance of fitness has recently become apparent to me as I continue to recover from my old injuries and first pregnancy.
 
 ## What I Want to Be Able To Do
 - Practice martial arts safely.
