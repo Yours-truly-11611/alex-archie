@@ -7,7 +7,7 @@ copyright = "© Athul"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-
+enableGitInfo = true
 
 #disqusShortname = "yourDisqusShortname"
 
