@@ -7,13 +7,13 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -10
-lastmod = '2025-12-09T12:14:25.180354Z'
+lastmod = '2025-12-09T17:14:45.705705Z'
 
 +++
 
 
 *2025 December 8*
-- The daycare folks complimented the consistently tasty-looking snacks that I pack for SIlas.
+- The daycare folks complimented the consistently tasty-looking snacks that I pack for S—.
 - The grocery store is walking distance away, even in winter.
 - Pears and papayas are a good price.
 - Every Saturday and Wednesday, the local farmer’s market is up.
@@ -23,15 +23,15 @@ lastmod = '2025-12-09T12:14:25.180354Z'
 - My son can now say “I love mama”, and says so freely and randomly
 - The hot water heater works.
 - My new warm snow boots. (Steger Arctic model)
-- My time alone when L____ takes our son to church and play dates.
+- My time alone when L— takes our son to church and play dates.
 - I am able to participate in a local choir.
-- L____ is always trying, and never gives up on our relationship.
+- L— is always trying, and never gives up on our relationship.
 
 *2025 November 20*
-- Silas wants to help me feel better when I’m sad 
+- S— wants to help me feel better when I’m sad 
 - The oven works
 - I can mooch off of my parents Netflix account on a bad day
 
 *2025 November 7*
-- S____ helped me plant garlic in the hay-covered field, handing me a new clove for each hole I made with my favourite walking stick. It’s a lovely, sunny day.
+- S— helped me plant garlic in the hay-covered field, handing me a new clove for each hole I made with my favourite walking stick. It’s a lovely, sunny day.
 - The gym has 2 hour childcare.
