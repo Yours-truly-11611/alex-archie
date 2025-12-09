@@ -6,10 +6,18 @@ date = '2025-12-07T14:52:37.308696Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2025-12-07T15:06:05.656559Z'
-weight = -10 # <-- This line pins the post
+weight = -10
+lastmod = '2025-12-09T12:14:25.180354Z'
+
 +++
 
+
+*2025 December 8*
+- The daycare folks complimented the consistently tasty-looking snacks that I pack for SIlas.
+- The grocery store is walking distance away, even in winter.
+- Pears and papayas are a good price.
+- Every Saturday and Wednesday, the local farmer’s market is up.
+- The local farmer’s market is actually a farmer’s market and not an expensive-craft-doodad market.
 
 *2025 December 7, Sunday*
 - My son can now say “I love mama”, and says so freely and randomly
