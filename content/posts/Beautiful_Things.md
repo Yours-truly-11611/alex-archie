@@ -7,10 +7,15 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -10
-lastmod = '2025-12-09T17:14:45.705705Z'
+lastmod = '2025-12-10T18:20:32.945899Z'
 
 +++
 
+
+*2025 December 10*
+- Miniature train displays in local shop windows.
+- It’s relatively easy to fly and see family (not cheap, but not as expensive as it could be).
+- 
 
 *2025 December 8*
 - The daycare folks complimented the consistently tasty-looking snacks that I pack for S—.
