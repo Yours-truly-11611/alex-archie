@@ -7,15 +7,19 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -10
-lastmod = '2025-12-10T18:20:32.945899Z'
+lastmod = '2025-12-12T19:11:26.227614Z'
 
 +++
 
 
+*2025 December 12, Friday*
+- We have a microwave. Didn’t have one for several years.
+- Public libraries
+- Big, fat, perfect snowflakes that glitter like shards of glass.
+
 *2025 December 10*
 - Miniature train displays in local shop windows.
 - It’s relatively easy to fly and see family (not cheap, but not as expensive as it could be).
-- 
 
 *2025 December 8*
 - The daycare folks complimented the consistently tasty-looking snacks that I pack for S—.
