@@ -7,10 +7,14 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -10
-lastmod = '2025-12-12T19:11:26.227614Z'
+lastmod = '2025-12-13T17:08:40.960921Z'
 
 +++
 
+
+*2025 December 13*
+- I have a working washing machine!
+- I have all the little comforts and luxuries that I have ever wanted, like a pc to play games on, a washing machine and dryer, an e-reader, enough art supplies to satisfy my creative urges, a garden, city amenities, a gym membership, clothes I feel comfortable and confident in, a dishwasher, and an over the sink drying rack.
 
 *2025 December 12, Friday*
 - We have a microwave. Didn’t have one for several years.
