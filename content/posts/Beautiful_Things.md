@@ -7,7 +7,7 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -10
-lastmod = '2025-12-16T13:27:36.784709Z'
+lastmod = '2025-12-16T21:45:40.820890Z'
 
 +++
 
@@ -18,6 +18,7 @@ lastmod = '2025-12-16T13:27:36.784709Z'
 *2025 December 16*
 - Fresh pressed juice
 - Evergreens in the snow
+- Soft brioche
 
 *2025 December 13*
 - I have a working washing machine!
