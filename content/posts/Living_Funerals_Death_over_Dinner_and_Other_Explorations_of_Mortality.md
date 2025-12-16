@@ -3,10 +3,10 @@ title = 'Living Funerals, Death over Dinner, and Other Explorations of Mortality
 description = 'My search for ways I can foster a healthy relationship with death in a community setting.'
 tags = ['death', 'friendship', 'entertaining']
 date = '2025-12-08T13:29:10.238066Z'
-draft = true
+draft = false
 categories = []
 author = 'Alex'
-lastmod = '2025-12-16T21:22:01.386402Z'
+lastmod = '2025-12-16T21:25:15.418043Z'
 
 +++
 
@@ -36,6 +36,9 @@ It’s about being able to picture your own corpse and feel some sense of warmth
 - What is the final, concluding action or statement that will signal the end of the formal event? (e.g., A final collective toast, a closing reading.)
 - What is the single most important outcome I hope each person takes away from the event?
 
+## Setting
+The vibe I’m going for should transition throughout the event. Somber for the eulogy, but holding onto a playfulness and curiosity, in a cozy atmosphere. More details to be determined.
+
 ## Activities 
 ### Discussion
 Either structured or casual
@@ -48,7 +51,7 @@ Either structured or casual
 
 ### Final Mile
 What immediate action would you take if you found out you were going to die?
- * Materials Setup (5 minutes):
+ * Materials Setup:
    * Provide small, uniform slips of paper (2–3 per person) and a pen.
    * Place a communal bowl, hat, or decorative box in the center.
  * The Prompt (5–10 minutes):
