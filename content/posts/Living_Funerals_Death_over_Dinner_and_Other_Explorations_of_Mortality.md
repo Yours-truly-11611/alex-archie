@@ -6,7 +6,7 @@ date = '2025-12-08T13:29:10.238066Z'
 draft = true
 categories = []
 author = 'Alex'
-lastmod = '2025-12-16T21:08:46.297785Z'
+lastmod = '2025-12-16T21:18:46.263609Z'
 
 +++
 
@@ -15,7 +15,8 @@ Let's put the "fun" in funeral, baby.
 
 It's helpful to have an intentional outlet to interact and examine something as profound as death. Even better to make it a collaborative process.
 
-Make it a party. Be upfront about what is all about. 
+Make it a party. Or maybe a cozy potluck.
+(This article is still being heavily edited while I figure out what I want/need to do.)
 
 ## What is it all about? 
 It’s about being able to picture your own corpse and feel some sense of warmth or peace. It’s about being able to cordially look death in the eyes before your time comes, and to be at peace when you realize death is always in the room with you.
@@ -36,10 +37,16 @@ It’s about being able to picture your own corpse and feel some sense of warmth
 - What is the single most important outcome I hope each person takes away from the event?
 
 ## Activities 
+### Discussion
+Either structured or casual
+- How has death affected you in your life so far?
+- What would you say your relationship is with death right now?
+
 ### Eulogy Project
 30-45 minutes of writing what you hope your eulogy sounds like. Sharing optional, but as the host you need to share.
 
-### Mortal Moments
+
+### Final Mile
 What immediate action would you take if you found out you were going to die?
  * Materials Setup (5 minutes):
    * Provide small, uniform slips of paper (2–3 per person) and a pen.
@@ -50,12 +57,12 @@ What immediate action would you take if you found out you were going to die?
    * Instruct them to fold the paper twice so their handwriting is hidden, and place the slips in the central container.
  * The Game (15–20 minutes):
    * The host mixes the slips and draws one at random.
-   * Read the "Mortal Moment" aloud.
+   * Read the slip aloud.
    * The Guessing: The group discusses who they think wrote it and why. This is the funniest and most connective part, as it reveals how well they know each other's deepest aspirations or hidden regrets.
    * The person who wrote the Moment reveals themselves, and then briefly explains the motivation behind it (the serious takeaway).
    * Continue until 4-6 moments have been read and guessed.
 ### Impact Object
-
+This is for closing the event.
 
 ## Other Approaches to This Sort of Thing
 ### Living funerals
