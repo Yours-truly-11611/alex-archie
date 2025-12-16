@@ -7,14 +7,17 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -10
-lastmod = '2025-12-16T01:11:53.835134Z'
+lastmod = '2025-12-16T13:27:36.784709Z'
 
 +++
 
 
-
 ![A list of beautiful things](/images/2025/11/Gratitude.jpg)
 
+
+*2025 December 16*
+- Fresh pressed juice
+- Evergreens in the snow
 
 *2025 December 13*
 - I have a working washing machine!
