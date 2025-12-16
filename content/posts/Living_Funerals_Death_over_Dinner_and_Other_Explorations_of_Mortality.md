@@ -6,7 +6,7 @@ date = '2025-12-08T13:29:10.238066Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2025-12-16T21:25:15.418043Z'
+lastmod = '2025-12-16T21:28:53.415825Z'
 
 +++
 
@@ -27,7 +27,7 @@ It’s about being able to picture your own corpse and feel some sense of warmth
 - How long or short a leash do I keep on conversations, and how prepared am I to gracefully direct the conversations (and the rest of the event) if anyone is „hogging the spotlight“?
 - How can I incorporate casual breaks to avoid burnout on heavy topics?
 - What materials do I need for each guest?
-- How much space can I adeptly hold for the vulnerability of others, and how do I prepare for genuine tears, anger, or strong emotion?)
+- How much space can I adeptly hold for the vulnerability of others, and how do I prepare for strong emotion?
  - What are my personal "red lines" for topics that feel too raw or inappropriate for the group setting? (e.g., specific graphic details, unresolved personal trauma unrelated to the theme.)
  - How will I handle a guest who becomes overwhelmed and needs to leave the conversation? (Do I have a quiet, separate space designated?)
  - How will I transition the mood from a solemn activity (like the Eulogy Project) back to a lighter one? (e.g., A physical stretch, a drink refill, or an immediate light prompt.)
