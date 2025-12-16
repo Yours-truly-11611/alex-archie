@@ -7,16 +7,13 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -10
-lastmod = '2025-12-16T01:11:01.756359Z'
+lastmod = '2025-12-16T01:11:53.835134Z'
 
 +++
 
 
-{{< custombox src="images/2025/11/Gratitude.jpg" 
-alt="A written list of things I’m grateful for from 2022" >}}
 
 ![A list of beautiful things](/images/2025/11/Gratitude.jpg)
-
 
 
 *2025 December 13*
