@@ -6,7 +6,7 @@ date = '2025-12-08T13:29:10.238066Z'
 draft = true
 categories = []
 author = 'Alex'
-lastmod = '2025-12-16T21:18:46.263609Z'
+lastmod = '2025-12-16T21:22:01.386402Z'
 
 +++
 
@@ -65,7 +65,13 @@ What immediate action would you take if you found out you were going to die?
 This is for closing the event.
 
 ## Other Approaches to This Sort of Thing
+I didn’t want to label what I am attempting as it is still in its infancy, but after some research, it seems to fit into a broader growing movement called Conscious Mortality or Death Positivity.
+
 ### Living funerals
 ### Death Cafes 
 ### Death Over Dinner 
+
+## Potential Future Events
+- A living funeral for anyone interested. We could take turns, with one funeral per event.
+- A will writing party.
 
