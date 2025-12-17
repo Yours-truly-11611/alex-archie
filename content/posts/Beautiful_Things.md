@@ -7,12 +7,16 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -10
-lastmod = '2025-12-16T21:45:40.820890Z'
+lastmod = '2025-12-17T18:31:22.558828Z'
 
 +++
 
 
-![A list of beautiful things](/images/2025/11/Gratitude.jpg)
+![A list of beautiful things](images/2025/11/Gratitude.jpg)
+
+* 2025 December 17*
+- public parks
+- Sunlight on the lake
 
 
 *2025 December 16*
