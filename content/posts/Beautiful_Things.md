@@ -7,12 +7,13 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -10
-lastmod = '2025-12-17T18:31:22.558828Z'
+lastmod = '2025-12-17T18:36:26.621952Z'
 
 +++
 
 
-![A list of beautiful things](images/2025/11/Gratitude.jpg)
+{{< custombox src="images/2025/11/Gratitude.jpg" 
+alt="A written list of things I was grateful for in 2022" >}}
 
 * 2025 December 17*
 - public parks
