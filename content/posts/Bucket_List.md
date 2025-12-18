@@ -1,13 +1,13 @@
 +++
 title = 'Bucket List'
-description = ''
+description = 'Things I want to do'
 tags = ['list', 'death', 'goals']
 date = '2025-12-18T19:28:17.565614Z'
 draft = false
 categories = []
-weight = -9
 author = 'Alex'
-lastmod = '2025-12-18T19:31:04.430681Z'
+weight = -9
+lastmod = '2025-12-18T19:41:14.888464Z'
 
 +++
 
