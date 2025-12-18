@@ -7,7 +7,7 @@ draft = false
 categories = []
 author = 'Alex'
 aliases = ['about-us', 'contact']
-lastmod = '2025-11-20T16:07:42.308912Z'
+lastmod = '2025-12-18T02:52:01.938007Z'
 
 +++
 
@@ -40,6 +40,7 @@ alt="Alex on a Hobie with a friend in front of The Sleeping Giant" >}}
 - The Fall | Albert Camus
 - How to Know a Person: The Art of Seeing Others Deeply and Being Deeply Seen | David Brooks
 - East of Eden | John Steinbeck
+- Deep Play | Diane Ackerman
 - That illegal audiobook rendition of the Lord of the Rings Trilogy (I couldn't read it otherwise)
 
 
