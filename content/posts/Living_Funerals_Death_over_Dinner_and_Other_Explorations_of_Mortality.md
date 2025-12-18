@@ -1,12 +1,12 @@
 +++
-title = 'Living Funerals, Death over Dinner, and Other Explorations of Mortality'
-description = 'My search for ways I can foster a healthy relationship with death in a community setting.'
+title = 'Let’s Host a Death Fest'
+description = 'Living Funerals, Death over Dinner, and Other Explorations of Mortality: My search for ways I can foster a healthy relationship with death in a community setting.'
 tags = ['death', 'friendship', 'entertaining']
 date = '2025-12-08T13:29:10.238066Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2025-12-16T21:28:53.415825Z'
+lastmod = '2025-12-18T02:54:40.008905Z'
 
 +++
 
