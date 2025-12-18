@@ -6,7 +6,7 @@ date = '2025-12-06T18:56:09.093289Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2025-12-18T03:06:15.749270Z'
+lastmod = '2025-12-18T03:09:24.640502Z'
 
 +++
 
@@ -51,7 +51,7 @@ The importance of physical fitness has recently become apparent to me as I conti
 
 ### Current Routines
 I’m interested in “functional fitness”.
-#### Anterior Pelvic Tilt
+**Anterior Pelvic Tilt**
 *For each exercise, two 30 second reps, with as many sets you can squeeze in. 1-2 sets is most likely*
 - Child’s pose
 - Glute bridges with kicks
@@ -60,19 +60,21 @@ I’m interested in “functional fitness”.
 - Plank
 - Bird/Dog 
 - Lunge stretches 
-#### Strong Knees
+
+**Strong Knees**
 - Squats
 - Kettlebell swings
 - Calf raises
 - Step up with knee raises
-#### Core
+
+**Core**
 - Bird/Dog
 - Plank
 - Dead bugs
 - Mountain climbers
 - Side leg raises
 
-#### Flexibility
+**Flexibility**
 - Not really sure, sun salutation yoga flows perhaps?
 
 ## Emotional Health
