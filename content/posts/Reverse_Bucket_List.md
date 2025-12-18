@@ -7,11 +7,12 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -8
-lastmod = '2025-12-18T19:43:40.026855Z'
+lastmod = '2025-12-18T19:46:28.518345Z'
 
 +++
 
 
+- Start a blog
 - Hitchhiked
 - Travelled alone for a while
 - Fired a grenade launcher
