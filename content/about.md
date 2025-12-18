@@ -7,7 +7,7 @@ draft = false
 categories = []
 author = 'Alex'
 aliases = ['about-us', 'contact']
-lastmod = '2025-12-18T02:52:01.938007Z'
+lastmod = '2025-12-18T03:16:14.765159Z'
 
 +++
 
@@ -35,6 +35,7 @@ Subject to change.
 
 {{< custombox src="images/2025/11/hobie.jpg" 
 alt="Alex on a Hobie with a friend in front of The Sleeping Giant" >}}
+*(that’s me)*
 
 ## Favorite Books
 - The Fall | Albert Camus
