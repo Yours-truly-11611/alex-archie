@@ -7,7 +7,7 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -10
-lastmod = '2025-12-17T18:36:26.621952Z'
+lastmod = '2025-12-18T02:50:29.221158Z'
 
 +++
 
@@ -15,9 +15,10 @@ lastmod = '2025-12-17T18:36:26.621952Z'
 {{< custombox src="images/2025/11/Gratitude.jpg" 
 alt="A written list of things I was grateful for in 2022" >}}
 
-* 2025 December 17*
+*2025 December 17*
 - public parks
 - Sunlight on the lake
+- The large selection of pastries in the city
 
 
 *2025 December 16*
