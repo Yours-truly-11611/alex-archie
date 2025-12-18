@@ -4,6 +4,7 @@ description = 'Living Funerals, Death over Dinner, and Other Explorations of Mor
 tags = ['death', 'friendship', 'entertaining']
 date = '2025-12-08T13:29:10.238066Z'
 draft = false
+toc = true
 categories = []
 author = 'Alex'
 lastmod = '2025-12-18T02:54:40.008905Z'
