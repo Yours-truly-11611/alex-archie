@@ -6,7 +6,7 @@ date = '2025-12-06T18:56:09.093289Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2025-12-18T03:09:24.640502Z'
+lastmod = '2025-12-18T03:11:16.877744Z'
 
 +++
 
@@ -38,12 +38,12 @@ The importance of physical fitness has recently become apparent to me as I conti
 - Carry my canoe and gear through portages alone.
 - Bounce back from injury and pregnancy as easily as I can make it.
 
-#### But First:
+**But First:**
 - 3 pull-ups (1 pull-up even!)
 - 2 min plank
 - 20 straight push-ups
 
-### Key Areas of Improvement
+**Key Areas of Improvement**
 - Anterior pelvic tilt, which is just beginning to cause back pain
 - Old knee injury. Gotta make my joints strong.
 - Cardio that’s easy on my knees.
@@ -51,6 +51,7 @@ The importance of physical fitness has recently become apparent to me as I conti
 
 ### Current Routines
 I’m interested in “functional fitness”.
+
 **Anterior Pelvic Tilt**
 *For each exercise, two 30 second reps, with as many sets you can squeeze in. 1-2 sets is most likely*
 - Child’s pose
