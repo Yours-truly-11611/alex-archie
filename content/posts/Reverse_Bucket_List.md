@@ -7,7 +7,7 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -8
-lastmod = '2025-12-18T19:37:56.754469Z'
+lastmod = '2025-12-18T19:43:40.026855Z'
 
 +++
 
@@ -28,4 +28,5 @@ lastmod = '2025-12-18T19:37:56.754469Z'
 - Honed the art of sourdough 
 - Made over $100 in one evening busking
 - Shook Obama‘s hand
+- Canoed (with portages) in Canada
 - 

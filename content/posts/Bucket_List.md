@@ -7,7 +7,7 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -9
-lastmod = '2025-12-18T19:41:14.888464Z'
+lastmod = '2025-12-18T19:45:28.441476Z'
 
 +++
 
@@ -20,3 +20,8 @@ lastmod = '2025-12-18T19:41:14.888464Z'
      - Spanish
      - Russian
 - Have a solo art exhibition
+- Set foot on every continent and dip a toe in every ocean
+- Knit a sweater
+- Own some chickens
+- Craft a high quality cosplay
+- 
