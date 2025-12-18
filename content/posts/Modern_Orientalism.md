@@ -6,7 +6,7 @@ date = '2025-12-18T03:23:15.369733Z'
 draft = true
 categories = []
 author = 'Alex'
-lastmod = '2025-12-18T03:44:18.591313Z'
+lastmod = '2025-12-18T03:47:53.172516Z'
 
 +++
 
@@ -24,6 +24,14 @@ I myself am perilously entangled at the intersection of the „East/West“ coll
 Growing up, kids and adults alike often treated me differently. Subtly, such as when I was gifted pretty chopsticks, or when everyone looked expectantly at me on Multicultural Day, and less subtly when guys said they preferred Asian women and tried pick-up lines on me in Vietnamese or Japanese. I am neither of those ethnicities, and arguably I’m not even the ethnicity I was born into; when I went back to the Homeland I was immediately identified as an outsider and targeted by scam artists.
 
 But enough about me, on my own blog, that I am writing about myself.
+
+We’re here to talk about the evolution of those perceptions and the different flavours I often see them take these days.
+
+„How Asian Women Never Age“
+„China is Living In The Future“
+„Yogi Reveals Sacred Methods of Longevity“
+„Japanese Parenting Tricks To Tame Your Toddler“
+„Korean Skincare Craze“
 
 Recommended Reading:
 The Weirdest People in the World
