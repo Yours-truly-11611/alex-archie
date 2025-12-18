@@ -3,10 +3,10 @@ title = 'Check in: Dec 14, 2025'
 description = 'On a flight to Toronto'
 tags = ['journal', 'travel']
 date = '2025-12-14T15:16:32.093579Z'
-draft = false
+draft = true
 categories = []
 author = 'Alex'
-lastmod = '2025-12-15T20:51:01.154521Z'
+lastmod = '2025-12-18T03:14:52.088116Z'
 
 +++
 
