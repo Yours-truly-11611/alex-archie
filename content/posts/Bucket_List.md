@@ -7,7 +7,7 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -9
-lastmod = '2025-12-18T19:47:30.241216Z'
+lastmod = '2025-12-20T20:17:51.267087Z'
 
 +++
 
@@ -24,4 +24,4 @@ lastmod = '2025-12-18T19:47:30.241216Z'
 - Knit a sweater
 - Own some chickens
 - Craft a high quality cosplay
-- 
+- Learn how to drive stick
