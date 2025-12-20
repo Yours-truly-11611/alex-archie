@@ -1,18 +1,18 @@
 +++
-title = 'Modern Orientalism'
-description = 'My experience and observations of the West gazing Eastward.'
-tags = ['opinion']
+title = 'Modern Orientalism: '
+description = 'An essay about my experience and observations of the West gazing Eastward.'
+tags = ['opinion', 'essay']
 date = '2025-12-18T03:23:15.369733Z'
 draft = true
 categories = []
 author = 'Alex'
-lastmod = '2025-12-18T03:47:53.172516Z'
+lastmod = '2025-12-20T20:46:07.837045Z'
 
 +++
 
 
 {{< custombox src="images/2025/11/modernorientalism.jpg" 
-alt="Alex on a Hobie with a friend in front of The Sleeping Giant" >}}
+alt="Meme on orientalism" >}}
 
 
 Weebs.
