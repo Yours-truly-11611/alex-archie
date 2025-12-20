@@ -6,7 +6,7 @@ date = '2025-12-20T20:04:21.801092Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2025-12-20T20:17:26.858796Z'
+lastmod = '2025-12-20T20:43:36.375716Z'
 
 +++
 
@@ -15,7 +15,7 @@ lastmod = '2025-12-20T20:17:26.858796Z'
 
 I mean it could be but it doesn’t have to be. What matters is the purpose. For instance, I blog as a means to reclaim my online experience. I don’t post so much on social media because I have this space that’s completely mine- no tracking, to ads, no weird internet politics. I built this thing myself so I know exactly what’s going on behind the scenes. You can’t say that about any social media site or really anything else if you didn’t build it yourself.
 
-* Okay, that sounds kinda cool, but why do you think anyone would want to read anything you write anyway?*
+*Okay, that sounds kinda cool, but why do you think anyone would want to read anything you write anyway?*
 
 Me posting my thoughts on the internet is less about people reading it and more about sending an open broadcast of personal expression, in the same way someone might wear a niche band t-shirt in public.
 
