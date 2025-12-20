@@ -1,5 +1,5 @@
 +++
-title = '📌Reverse Bucket List '
+title = '📌 Reverse Bucket List '
 description = 'Things I’ve already done!'
 tags = ['list', 'goals', 'death', 'memory']
 date = '2025-12-18T19:31:06.108511Z'
@@ -7,7 +7,7 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -8
-lastmod = '2025-12-20T20:02:46.821559Z'
+lastmod = '2025-12-20T20:19:15.992567Z'
 
 +++
 

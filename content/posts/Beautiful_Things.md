@@ -1,5 +1,5 @@
 +++
-title = '📌Beautiful Things'
+title = '📌 Beautiful Things'
 description = 'A running list of things that I am grateful for or that have supported me in some way.'
 tags = ['list', 'memory']
 date = '2025-12-07T14:52:37.308696Z'
@@ -7,7 +7,7 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -10
-lastmod = '2025-12-20T20:04:19.488181Z'
+lastmod = '2025-12-20T20:19:08.358453Z'
 
 +++
 
