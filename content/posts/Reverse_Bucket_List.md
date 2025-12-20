@@ -7,7 +7,7 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -8
-lastmod = '2025-12-18T19:47:15.058192Z'
+lastmod = '2025-12-20T20:02:46.821559Z'
 
 +++
 
@@ -30,4 +30,4 @@ lastmod = '2025-12-18T19:47:15.058192Z'
 - Made over $100 in one evening busking
 - Shook Obama‘s hand
 - Canoed (with portages) in Canada
-- 
+- Participated in a multi-day sailing race (Bayfield, on a J-41)
