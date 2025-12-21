@@ -1,12 +1,12 @@
 +++
-title = 'Why blog? Reclaim Your Internet Experience!'
-description = ''
+title = 'Why do I blog?'
+description = 'To reclaim my internet experience!'
 tags = ['opinion']
 date = '2025-12-20T20:04:21.801092Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2025-12-20T20:43:36.375716Z'
+lastmod = '2025-12-21T03:15:05.798986Z'
 
 +++
 
