@@ -3,10 +3,10 @@ title = 'Who Are You and What are You Doing Here?'
 description = ''
 tags = ['journal']
 date = '2025-11-21T17:09:58.422753Z'
-draft = false
+draft = true
 categories = []
 author = 'Alex'
-lastmod = '2025-11-21T19:24:12.730832Z'
+lastmod = '2025-12-23T11:25:48.294672Z'
 
 +++
 

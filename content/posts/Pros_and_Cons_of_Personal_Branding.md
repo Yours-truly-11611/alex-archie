@@ -3,10 +3,10 @@ title = 'Pros and Cons of Personal Branding'
 description = ''
 tags = []
 date = '2025-12-23T03:22:24.019929Z'
-draft = false
+draft = true
 categories = ['seedling']
 author = 'Alex'
-lastmod = '2025-12-23T03:36:49.885194Z'
+lastmod = '2025-12-23T11:25:17.104122Z'
 
 +++
 

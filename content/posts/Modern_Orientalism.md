@@ -3,10 +3,10 @@ title = 'Modern Orientalism: '
 description = 'An essay about my experience and observations of the West gazing Eastward.'
 tags = ['opinion', 'essay']
 date = '2025-12-22T05:00:00.000Z'
-draft = false
+draft = true
 categories = ['budding']
 author = 'Alex'
-lastmod = '2025-12-23T04:06:18.172322Z'
+lastmod = '2025-12-23T11:25:07.985948Z'
 
 +++
 
