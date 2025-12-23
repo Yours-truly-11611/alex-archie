@@ -17,7 +17,7 @@ enableGitInfo = true
 [params]
 	mode="toggle" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "Simple things written with pleasure"
+	subtitle = "Not a blog. A public workspace for my thoughts, written with pleasure."
 	mathjax = false # enable MathJax support
 	katex = false # enable KaTeX support
 
@@ -41,7 +41,7 @@ url = "/archive/"
 weight = 2
 
 [[menu.main]]
-name = "About"
+name = "Hello"
 url = "/about"
 weight = 3
 
