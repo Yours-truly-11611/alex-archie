@@ -7,7 +7,7 @@ draft = false
 categories = []
 author = 'Alex'
 aliases = ['about-us', 'contact']
-lastmod = '2025-12-18T03:16:14.765159Z'
+lastmod = '2025-12-23T03:39:26.520072Z'
 
 +++
 
@@ -23,7 +23,7 @@ Ontario, Canada (previously Victoria, Australia, and even previously-er, Colorad
 
 Subject to change.
 
-## Hobbies
+## Current Hobbies
 - Painting
 - Gardening
 - Tinkering
@@ -36,6 +36,11 @@ Subject to change.
 {{< custombox src="images/2025/11/hobie.jpg" 
 alt="Alex on a Hobie with a friend in front of The Sleeping Giant" >}}
 *(that’s me)*
+
+## Current Books
+- Orientalism
+- The WEIRDest People in The World
+- Vita Contemplativa
 
 ## Favorite Books
 - The Fall | Albert Camus
