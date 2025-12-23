@@ -17,7 +17,7 @@ enableGitInfo = true
 [params]
 	mode="toggle" # color-mode → light,dark,toggle or auto
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
-	subtitle = "Not a blog. A [digital garden] (https://maggieappleton.com/garden-history)
+	subtitle = "Not a blog. A [digital garden](https://maggieappleton.com/garden-history)
  for my thoughts, written with pleasure."
 	mathjax = false # enable MathJax support
 	katex = false # enable KaTeX support
