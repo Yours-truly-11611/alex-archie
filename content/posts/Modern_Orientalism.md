@@ -3,10 +3,10 @@ title = 'Modern Orientalism: '
 description = 'An essay about my experience and observations of the West gazing Eastward.'
 tags = ['opinion', 'essay']
 date = '2025-12-18T03:23:15.369733Z'
-draft = true
-categories = []
+draft = false
+categories = ['budding']
 author = 'Alex'
-lastmod = '2025-12-20T20:46:07.837045Z'
+lastmod = '2025-12-23T04:05:59.888763Z'
 
 +++
 
@@ -14,6 +14,8 @@ lastmod = '2025-12-20T20:46:07.837045Z'
 {{< custombox src="images/2025/11/modernorientalism.jpg" 
 alt="Meme on orientalism" >}}
 
+
+*A budding idea in progress*
 
 Weebs.
 
