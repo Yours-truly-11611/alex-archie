@@ -7,12 +7,15 @@ draft = false
 categories = []
 author = 'Alex'
 aliases = ['about-us', 'contact']
-lastmod = '2025-12-23T03:39:26.520072Z'
+lastmod = '2025-12-23T03:48:42.142122Z'
 
 +++
 
 
-Everything on this site is a work in progress.
+Everything on this site is a work in progress. If you find a typo or a half-baked thought, you’ve likely caught me in the middle of an iteration.
+
+₍ᐢ.  ̫.ᐢ₎
+
 
 
 ## Name
@@ -55,5 +58,10 @@ alt="Alex on a Hobie with a friend in front of The Sleeping Giant" >}}
 - The Lord of the Rings Trilogy
 - Seven Samurai
 
+## Values
+- Hospitality 
+- Slow thinking over fast engagement.
 
-
+## Currently Questioning
+- Why am I keeping this blog? Is it a blog?
+- How can I make more art consistently while parenting?
