@@ -6,7 +6,7 @@ date = '2025-12-27T13:44:34.285144Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2025-12-27T15:09:50.912093Z'
+lastmod = '2025-12-30T17:47:38.363286Z'
 
 +++
 
@@ -72,21 +72,37 @@ I dream of making my camp set-up ultralight as well, and this book went into the
 
 ## *No Bad Kids* by Janet Lansbury
 
-
+Practical advice on how to deal with a toddler and yourself.
 
 ## *Making Things: Finding use, meaning, and Satisfaction in Creating Everyday Objects* by Erin Boyle and Rose Pearlman
 
+An actually useful and inventive book on how to reuse things gracefully. Tutorials on how to make beautiful and practical things that deviates from the typical „reduce reuse recycle aesthetic“.
+
 ## *How Not to Hate Your Husband After Kids* by Jaycee Dunn
+
+Incredibly helpful as a young mother.
 
 ## *The Strange Last Voyage of Donald Crowhurst* by Nicholas Tomalin and Ron Hall
 
+Like watching a car crash in slow motion.
+
 ## *Secrets of Adulthood* by Gretchen Rubin
+
+
 
 ## *Common Sense Natural Beekeeping* by Kim Flottum
 
+
+
 ## *Letters of Note: Art* by Shaun Usher
+
+
 
 ## *Picture This: How Pictures Work* by Molly Bang
 
+Changed how I consider the compositions of my art pieces. Very helpful and an easy read.
+
 ## *The E-Myth Revisited* by Michael E. Gerber
+
+A classic book for entrepreneurs that is generally useful for anyone trying to build an organizational structure. Highlights the importance of defined roles and potential delegation.
 
