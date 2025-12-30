@@ -7,7 +7,7 @@ draft = false
 categories = []
 author = 'Alex'
 aliases = ['about-us', 'contact']
-lastmod = '2025-12-23T03:48:42.142122Z'
+lastmod = '2025-12-30T17:29:45.631014Z'
 
 +++
 
@@ -60,6 +60,9 @@ alt="Alex on a Hobie with a friend in front of The Sleeping Giant" >}}
 
 ## Values
 - Hospitality 
+- Curiosity 
+- Playfulness
+- Resoucefulness
 - Slow thinking over fast engagement.
 
 ## Currently Questioning
