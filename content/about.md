@@ -7,7 +7,7 @@ draft = false
 categories = []
 author = 'Alex'
 aliases = ['about-us', 'contact']
-lastmod = '2025-12-30T17:29:45.631014Z'
+lastmod = '2025-12-30T17:34:33.377109Z'
 
 +++
 
@@ -60,11 +60,16 @@ alt="Alex on a Hobie with a friend in front of The Sleeping Giant" >}}
 
 ## Values
 - Hospitality 
+- Dignity
+- Wonder
 - Curiosity 
 - Playfulness
+- Simplicity
 - Resoucefulness
-- Slow thinking over fast engagement.
+- Thinking slowly
 
 ## Currently Questioning
 - Why am I keeping this blog? Is it a blog?
 - How can I make more art consistently while parenting?
+- What does it mean to love one’s country?
+- How can I better plan weekly dinners?
