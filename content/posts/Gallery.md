@@ -7,15 +7,15 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -9
-lastmod = '2025-12-31T02:36:19.829347Z'
+lastmod = '2025-12-31T02:38:52.903594Z'
 
 +++
 
 
 ![onion](/images/2025/11/pastelonion.jpg)
-![daisy](/images/2025/11/painteddaisy.jpg)
+![daisy](images/2025/11/painteddaisy.jpg)
 
-{{< custombox src="images/2025/11/hobie.jpg" 
+{{< custombox src="images/2025/11/pastelonion.jpg" 
 alt="Alex on a Hobie with a friend in front of The Sleeping Giant" >}}
 
 
