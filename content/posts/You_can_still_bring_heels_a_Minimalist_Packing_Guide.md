@@ -6,7 +6,8 @@ date = '2026-01-02T20:48:31.642723Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2026-01-02T21:10:35.178560Z'
+lastmod = '2026-01-02T21:16:35.334032Z'
+toc = true
 
 +++
 
@@ -20,9 +21,22 @@ I travelled for 2 years out of one 32 L backpack with a pair of heels and 2 dres
 This is a practical and tested guide to dressing confidently on the road while keeping your backpack bulk down.
 
 ## The Mindset
-Before you begin packing at all you have to settle with the idea that 
- 1. you can’t bring everything and
- 2. if you truly need something, you’ll find it away from home.
+Before you begin packing at all you have to settle with the ideas that 
+ 1. You can’t bring everything.
+ 2. If you truly need something, you’ll find it away from home.
+ 3. Not packing something means you can pack something else.
+
+## Questions to Ask Yourself 
+
+The following questions can help you narrow down what to bring.
+- What is the weather like where I’m heading?
+- How will I be spending my time?
+- What do I feel most comfortable wearing?
+
+Key values when evaluating a piece to pack are its 
+- adaptability. Can I wear this in an art museum and in the farm?
+- bulk. How much space is this taking up?
+- ease of washing. Is this easy to hand wash? Is it washing machine friendly?
 
 ## My Pack List
 **Tops**
