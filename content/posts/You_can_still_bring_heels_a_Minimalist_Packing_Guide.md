@@ -1,12 +1,12 @@
 +++
-title = 'You can still bring heels: a Minimalist Packing Guide'
+title = 'You Can Still Bring Heels: a Long-term Minimalist Packing Guide'
 description = 'A one-bag packing guide unlike any other.'
 tags = ['travel', 'opinion']
 date = '2026-01-02T20:48:31.642723Z'
 draft = true
 categories = []
 author = 'Alex'
-lastmod = '2026-01-02T20:51:55.862386Z'
+lastmod = '2026-01-02T20:52:30.514928Z'
 
 +++
 
