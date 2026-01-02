@@ -6,7 +6,7 @@ date = '2026-01-02T20:48:31.642723Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2026-01-02T21:16:35.334032Z'
+lastmod = '2026-01-02T21:21:00.781095Z'
 toc = true
 
 +++
@@ -23,7 +23,7 @@ This is a practical and tested guide to dressing confidently on the road while k
 ## The Mindset
 Before you begin packing at all you have to settle with the ideas that 
  1. You can’t bring everything.
- 2. If you truly need something, you’ll find it away from home.
+ 2. If you truly need something, you’ll find it away from home, either to buy or borrow.
  3. Not packing something means you can pack something else.
 
 ## Questions to Ask Yourself 
@@ -37,6 +37,8 @@ Key values when evaluating a piece to pack are its
 - adaptability. Can I wear this in an art museum and in the farm?
 - bulk. How much space is this taking up?
 - ease of washing. Is this easy to hand wash? Is it washing machine friendly?
+
+**Pro-tip:** If you’re planning on doing some dirty work on farm stays or whatever, borrow some work clothes there or find cheap coveralls/aprons/jackets from the second-hand shop. Don’t pack it with you! Most places I worked had clothes I could borrow. 
 
 ## My Pack List
 **Tops**
