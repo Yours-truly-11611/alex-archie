@@ -6,7 +6,7 @@ date = '2026-01-02T20:48:31.642723Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2026-01-02T21:21:00.781095Z'
+lastmod = '2026-01-02T21:30:18.669405Z'
 toc = true
 
 +++
@@ -79,6 +79,3 @@ Key values when evaluating a piece to pack are its
 
 - Pashmina scarf
 - 2 cotton bandanas
-
-**Toiletries**
-- 
