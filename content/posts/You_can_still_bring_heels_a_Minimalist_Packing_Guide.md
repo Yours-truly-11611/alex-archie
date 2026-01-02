@@ -6,7 +6,7 @@ date = '2026-01-02T20:48:31.642723Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2026-01-02T21:09:00.746724Z'
+lastmod = '2026-01-02T21:10:35.178560Z'
 
 +++
 
@@ -26,29 +26,43 @@ Before you begin packing at all you have to settle with the idea that
 
 ## My Pack List
 **Tops**
+
 - 1 tshirt
-- 1b black tank top
+- 1 black tank top
+
 **Bottoms**
+
 - 1 pair of shorts
 - 1 pair of capris 
 - 1 pair leggings
+
 **Intimates**
+
 - 5 Underwear 
 - 2 bras
 - 3 pairs of socks
 - 1 bikini
+
 **Dresses**
+
 - little black dress
 - favourite red dress
+
 **Layers**
+
 - Uniqulo down packable puffer
 - Anorak-style jacket
+
 **Shoes**
+
 - Trail running shoes
 - Sandals
 - Black heels
+
 **Accessories**
+
 - Pashmina scarf
 - 2 cotton bandanas
+
 **Toiletries**
 - 
