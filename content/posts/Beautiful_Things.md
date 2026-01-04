@@ -7,13 +7,21 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -10
-lastmod = '2025-12-20T20:19:08.358453Z'
+lastmod = '2026-01-04T04:11:25.868317Z'
 
 +++
 
 
 {{< custombox src="images/2025/11/Gratitude.jpg" 
 alt="A written list of things I was grateful for in 2022" >}}
+
+*2026 January 3*
+- Fireworks
+- The sound of birds in the morning
+- Warm, heavy rain
+- Playing in the rain
+- Air conditioning
+- My mom’s extra large pressure cooker
 
 *2025 December 20*
 - Ironed bed sheets 
