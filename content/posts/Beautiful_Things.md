@@ -7,13 +7,22 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -10
-lastmod = '2026-01-04T04:11:25.868317Z'
+lastmod = '2026-01-07T03:24:00.291747Z'
 
 +++
 
 
 {{< custombox src="images/2025/11/Gratitude.jpg" 
 alt="A written list of things I was grateful for in 2022" >}}
+
+*2026 January 6, Tuesday*
+![dew on a spiderweb](/images/2025/11/dew.jpg)
+
+- Areas without streetlights
+- Electronic pianos
+- Pizza delivery services
+- Spending time with parents and siblings as an adult
+- Thoughtfully animated movies and shows
 
 *2026 January 3*
 - Fireworks
