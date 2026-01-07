@@ -7,7 +7,7 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -10
-lastmod = '2026-01-07T03:24:00.291747Z'
+lastmod = '2026-01-07T03:29:34.432730Z'
 
 +++
 
@@ -16,7 +16,9 @@ lastmod = '2026-01-07T03:24:00.291747Z'
 alt="A written list of things I was grateful for in 2022" >}}
 
 *2026 January 6, Tuesday*
-![dew on a spiderweb](/images/2025/11/dew.jpg)
+
+{{< custombox src="images/2025/11/icestove.jpg" 
+alt="A written list of things I was grateful for in 2022" >}}
 
 - Areas without streetlights
 - Electronic pianos
