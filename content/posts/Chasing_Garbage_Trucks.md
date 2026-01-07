@@ -7,7 +7,7 @@ draft = true
 categories = []
 author = 'Alex'
 keywords = ['travel', 'Taiwan', 'funny', 'travel stories']
-lastmod = '2026-01-07T03:18:34.502412Z'
+lastmod = '2026-01-07T21:03:45.538313Z'
 
 +++
 
