@@ -6,7 +6,7 @@ date = '2026-01-02T20:48:31.642723Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2026-01-08T03:57:21.233160Z'
+lastmod = '2026-01-08T16:52:50.203316Z'
 toc = true
 
 +++
@@ -27,6 +27,8 @@ Before you begin packing at all you have to settle with the ideas that
  2. If you truly need something, you’ll find it away from home, either to buy or borrow.
  3. Not packing something means you can pack something else.
 
+The limited space in your backpack requires a certain creativity.
+
 ## Questions to Ask Yourself 
 
 The following questions can help you narrow down what to bring.
@@ -35,9 +37,14 @@ The following questions can help you narrow down what to bring.
 - What do I feel most comfortable wearing?
 
 Key values when evaluating a piece to pack are its 
-- adaptability. Can I wear this in an art museum and in the farm?
-- bulk. How much space is this taking up?
-- ease of washing. Is this easy to hand wash? Is it washing machine friendly?
+- **adaptability**. Can I wear this in an art museum and at the farm?
+- **bulk**. How much space is this taking up?
+- **ease of washing**. Is this easy to hand wash? Is it washing machine friendly?
+- **style**. And by this I mean assessing how well it works with the other pieces you pack.
+
+An easy way for me to make sure I have a cohesive style when packing minimally is to pick a colour scheme! A sort of *limited-palette* for all you artists out there.
+
+I usually go for mostly neutrals, like black, olive, and ivory, and inject some dopamine-inducing colour through my accessories. A berry-pink sun hat and a burgundy pashmina scarf can elevate any of my basic outfits. A simple pair of earrings can turn a black tank and black pants into a refined outfit.
 
 **Pro-tip:** If you’re planning on doing some dirty work on farm stays or whatever, borrow some work clothes there or find cheap coveralls/aprons/jackets from the second-hand shop. Don’t pack it with you! Most places I worked had clothes I could borrow. 
 
@@ -80,3 +87,13 @@ Key values when evaluating a piece to pack are its
 
 - Pashmina scarf
 - 2 cotton bandanas
+
+**Toiletries/Makeup**
+
+- Black eyeliner
+- Brown eyeliner
+- Multi-purpose lip/cheek/eye stick
+- Face soap (bar)
+- Face moisturizer
+- Bar soap and conditioner (*If visiting home stays or family, there’s usually soap there to use, or you can buy some if you’ll be there for a while. I’m just picky.*)
+- Hairspray in a non-aerosol bottle. I transfer mine into a small bottle to bring.
