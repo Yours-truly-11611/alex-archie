@@ -7,7 +7,7 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -10
-lastmod = '2026-01-07T03:29:34.432730Z'
+lastmod = '2026-01-08T04:01:04.152797Z'
 
 +++
 
@@ -15,10 +15,14 @@ lastmod = '2026-01-07T03:29:34.432730Z'
 {{< custombox src="images/2025/11/Gratitude.jpg" 
 alt="A written list of things I was grateful for in 2022" >}}
 
+*2026 January 7*
+- The sound of water at the dock
+- Hydrogen peroxide 
+- The way the moss sways in the live oaks on my parents‘ street.
+
 *2026 January 6, Tuesday*
 
-{{< custombox src="images/2025/11/icestove.jpg" 
-alt="A written list of things I was grateful for in 2022" >}}
+![A dark road in Taiwan](/images/darkroad.jpg)
 
 - Areas without streetlights
 - Electronic pianos
