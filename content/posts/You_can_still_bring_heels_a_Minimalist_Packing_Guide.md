@@ -6,15 +6,13 @@ date = '2026-01-02T20:48:31.642723Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2026-01-08T03:54:44.673891Z'
+lastmod = '2026-01-08T03:57:21.233160Z'
 toc = true
 
 +++
 
 
 I love travelling light. I also love getting dolled up when I visit a city. But so many one-bag travel blogs condemn bringing luxuries like a pair of heels or more than one dress.
-
-![test](/images/darkroad.jpg)
 
 
 Not this one!
