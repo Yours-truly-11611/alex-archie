@@ -6,7 +6,7 @@ date = '2026-01-02T20:48:31.642723Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2026-01-08T16:52:50.203316Z'
+lastmod = '2026-01-08T17:10:10.465030Z'
 toc = true
 
 +++
@@ -14,20 +14,31 @@ toc = true
 
 I love travelling light. I also love getting dolled up when I visit a city. But so many one-bag travel blogs condemn bringing luxuries like a pair of heels or more than one dress.
 
-
 Not this one!
 
-I travelled for 2 years out of one 32 L backpack with a pair of heels and 2 dresses, while also being prepared for several months working on farmstays and homesteads.
+I travelled for 2 years out of one 32 L backpack with a pair of heels and 2 dresses, while also being prepared for several months working on farmstays and homesteads. Packing one bag for such a wide range of scenarios simply requires careful planning, choice, a little sacrifice, and creativity. All without sacrificing style!
 
 This is a practical and tested guide to dressing confidently on the road while keeping your backpack bulk down.
 
 ## The Mindset
 Before you begin packing at all you have to settle with the ideas that 
- 1. You can’t bring everything.
- 2. If you truly need something, you’ll find it away from home, either to buy or borrow.
- 3. Not packing something means you can pack something else.
 
-The limited space in your backpack requires a certain creativity.
+### 1. You can’t bring everything.
+The limited space in your backpack requires a certain creativity. I recommend not bringing anything that you would hate to lose if you’re travelling long-term, as the unknowns of the big-wide-world might cause staining, ripping, or just plain losing it on the bus. I’m sure you’ll be careful NOT to lose anything you love though. For instance, my heels and dresses stayed with me the whole 2 years.
+
+### 2. If you truly need something, you’ll find it away from home, either to buy or borrow.
+Decided to leave that extra layer to cut the bulk only to feel the chill of early spring in Germany? Find a jacket on location. If you still love it after it’s outlived its usefulness, keep it or send it back.
+
+### 3. Not packing something means you can pack something else.
+I was able to bring my heels because I opted not to bring more than 1 tshirt, and I brought the flattest, cheapest flip-flops I could find, which I stuck in my backpack side pocket.
+
+### 4. You don’t have to “look like a backpacker”. (But if you want to, that’s ok too!)
+You don’t need the latest Patagonia or REI to make this work.
+
+
+### 5. If you absolutely can’t bear to leave something you picked up at the place you’re visiting, and your backpack is absolutely full, you can bite the fee and either buy a checked bag OR send a box of souvineers home/to a friend. **The contents of your bag are not set in stone.**
+You can add and discard things as you go along. Your needs will evolve over time, especially if you are visiting different environments or if you are travelling for longer than a month. I added and donated various jackets, tshirts (some of my clothes got eaten by a suspicious washing machine), and toiletry items.
+
 
 ## Questions to Ask Yourself 
 
@@ -80,7 +91,7 @@ I usually go for mostly neutrals, like black, olive, and ivory, and inject some 
 **Shoes**
 
 - Trail running shoes
-- Sandals
+- flip flops
 - Black heels
 
 **Accessories**
