@@ -6,7 +6,7 @@ date = '2026-01-02T20:48:31.642723Z'
 draft = false
 categories = []
 author = 'Alex'
-lastmod = '2026-01-08T17:16:47.574666Z'
+lastmod = '2026-01-08T20:13:43.143540Z'
 toc = true
 
 +++
@@ -64,10 +64,14 @@ I usually go for mostly neutrals, like black, olive, and ivory, and inject some 
 **Pro-tip:** If you’re planning on doing some dirty work on farm stays or whatever, borrow some work clothes there or find cheap coveralls/aprons/jackets from the second-hand shop. Don’t pack it with you! Most places I worked had clothes I could borrow. 
 
 ## My Pack List
+
+This is what I packed for my 2 year trip. Since then, I’ve made improvements, which are noted in italics.
+
 **Tops**
 
 - 1 tshirt
 - 1 black tank top
+*- 1 thin merino sweater instead of the puffer jacket*
 
 **Bottoms**
 
