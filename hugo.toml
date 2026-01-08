@@ -9,6 +9,9 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 enableGitInfo = true
 
+canonifyURLs = true
+
+
 #disqusShortname = "yourDisqusShortname"
 
 [pagination]
