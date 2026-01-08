@@ -7,13 +7,18 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -10
-lastmod = '2026-01-08T04:01:04.152797Z'
+lastmod = '2026-01-08T17:16:02.208612Z'
 
 +++
 
 
 {{< custombox src="images/2025/11/Gratitude.jpg" 
 alt="A written list of things I was grateful for in 2022" >}}
+
+*2026 January 8*
+- Birthday cake mix
+- Mochi doughnuts
+- Fog that’s so thick you can’t see the houses on the other side of the road
 
 *2026 January 7*
 - The sound of water at the dock
