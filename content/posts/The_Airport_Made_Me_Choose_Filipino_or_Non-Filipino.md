@@ -7,15 +7,15 @@ draft = false
 categories = []
 author = 'Alex'
 keywords = ['third culture kid', 'Filipino diaspora', 'Filipino American identity', 'visiting the Philippines for the first time', 'not speaking Tagalog in the Philippines', 'identity crisis', 'belonging and identity', 'Baguio', 'Philippines', 'Filipino culture']
-lastmod = '2026-01-13T22:31:52.967389Z'
-toc = true
+lastmod = '2026-01-13T22:34:02.782683Z'
+toc = false
 
 +++
 
 
 I was 22 when I first visited the Philippines. The country where my father was born, and where all of my ancestors had lived before my grandparents moved to the New World, the Land of Opportunity— the United States.
 
-The first reckoning was before I had even left the airport terminal. “Filipinos,” one aisle was marked with in bold capital letters. “Non-Filipinos,” said the other. I stood between the two as the other passengers filed past me, confidently choosing the line they belonged in. Of course this was about what kind of passport I held, but in my sleep-deprived state it seemed like a question that rocked my very essence. My American passport suddenly felt foreign to me, despite it being my constant companion for the last several years. It named my origin, but could I claim it? After a halted breath, I chose the “Non-Filipino” line, and with each step forward, I felt the weight of that choice.
+The first reckoning was before I had even left the airport terminal. “FILIPINOS,” one aisle was marked with in bold capital letters. “NON-FILIPINOS,” said the other. I stood between the two as the other passengers filed past me, confidently choosing the line they belonged in. Of course this was about what kind of passport I held, but in my sleep-deprived state it seemed like a question that rocked my very essence. My American passport suddenly felt foreign to me, despite it being my constant companion for the last several years. It named my origin, but could I claim it? After a halted breath, I chose the “Non-Filipino” line, and with each step forward, I felt the weight of that choice.
 
 I had imagined the trip differently. In my mind, arriving in the Philippines would feel like visiting an auntie’s home, warm, familiar, welcoming, like finding a missing piece that I knew I had lost. My Lola’s nursery rhymes, the stories my Grandpapa would tell us over a few beers, the faded photographs of distant relatives that all shared my same nose, painted an idea in my head that “home” might exist somewhere across the Pacific.
 
