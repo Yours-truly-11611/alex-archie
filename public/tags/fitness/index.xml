@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fitness on Alex Again</title>
+    <link>http://localhost:1313/tags/fitness/</link>
+    <description>Recent content in Fitness on Alex Again</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Athul</copyright>
+    <lastBuildDate>Wed, 17 Dec 2025 23:12:07 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fitness/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wellness Goals</title>
+      <link>http://localhost:1313/posts/fitness_goals/</link>
+      <pubDate>Sat, 06 Dec 2025 18:56:09 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fitness_goals/</guid>
+      <description>&lt;p&gt;„Wellness“ encompasses the state of both my „metals“ and „physicals“.&lt;/p&gt;&#xA;&lt;p&gt;I’m going to try to segment my wellness into the following parts:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;physical&lt;/li&gt;&#xA;&lt;li&gt;emotional&lt;/li&gt;&#xA;&lt;li&gt;intellectual&lt;/li&gt;&#xA;&lt;li&gt;social&lt;/li&gt;&#xA;&lt;li&gt;spiritual&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;„Mental health“ could encompass the last four categories that I mention, but it seems too broad a topic that I decided to divvy it up some more.&lt;/p&gt;&#xA;&lt;h2 id=&#34;physical-health&#34;&gt;Physical health&lt;/h2&gt;&#xA;&lt;p&gt;The importance of physical fitness has recently become apparent to me as I continue to recover from my old injuries and first pregnancy.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

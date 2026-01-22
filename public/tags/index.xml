@@ -7,13 +7,139 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Athul</copyright>
-    <lastBuildDate>Fri, 21 Nov 2025 19:24:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 04:11:16 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Content Strategy</title>
+      <link>http://localhost:1313/tags/content-strategy/</link>
+      <pubDate>Thu, 22 Jan 2026 08:58:57 +0000</pubDate>
+      <guid>http://localhost:1313/tags/content-strategy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Copywriting</title>
+      <link>http://localhost:1313/tags/copywriting/</link>
+      <pubDate>Thu, 22 Jan 2026 08:58:57 +0000</pubDate>
+      <guid>http://localhost:1313/tags/copywriting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SEO</title>
+      <link>http://localhost:1313/tags/seo/</link>
+      <pubDate>Thu, 22 Jan 2026 08:58:57 +0000</pubDate>
+      <guid>http://localhost:1313/tags/seo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Small Business Tips</title>
+      <link>http://localhost:1313/tags/small-business-tips/</link>
+      <pubDate>Thu, 22 Jan 2026 08:58:57 +0000</pubDate>
+      <guid>http://localhost:1313/tags/small-business-tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Culture</title>
+      <link>http://localhost:1313/tags/culture/</link>
+      <pubDate>Tue, 13 Jan 2026 22:27:51 +0000</pubDate>
+      <guid>http://localhost:1313/tags/culture/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Memory</title>
+      <link>http://localhost:1313/tags/memory/</link>
+      <pubDate>Tue, 13 Jan 2026 22:27:51 +0000</pubDate>
+      <guid>http://localhost:1313/tags/memory/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Travel</title>
+      <link>http://localhost:1313/tags/travel/</link>
+      <pubDate>Tue, 13 Jan 2026 22:27:51 +0000</pubDate>
+      <guid>http://localhost:1313/tags/travel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opinion</title>
+      <link>http://localhost:1313/tags/opinion/</link>
+      <pubDate>Fri, 02 Jan 2026 20:48:31 +0000</pubDate>
+      <guid>http://localhost:1313/tags/opinion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sociology</title>
+      <link>http://localhost:1313/tags/sociology/</link>
+      <pubDate>Tue, 30 Dec 2025 16:36:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sociology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Book</title>
+      <link>http://localhost:1313/tags/book/</link>
+      <pubDate>Sat, 27 Dec 2025 13:44:34 +0000</pubDate>
+      <guid>http://localhost:1313/tags/book/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>List</title>
+      <link>http://localhost:1313/tags/list/</link>
+      <pubDate>Sat, 27 Dec 2025 13:44:34 +0000</pubDate>
+      <guid>http://localhost:1313/tags/list/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Essay</title>
+      <link>http://localhost:1313/tags/essay/</link>
+      <pubDate>Mon, 22 Dec 2025 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/essay/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Journal</title>
       <link>http://localhost:1313/tags/journal/</link>
-      <pubDate>Fri, 21 Nov 2025 17:09:58 +0000</pubDate>
+      <pubDate>Sun, 14 Dec 2025 15:16:32 +0000</pubDate>
       <guid>http://localhost:1313/tags/journal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Death</title>
+      <link>http://localhost:1313/tags/death/</link>
+      <pubDate>Mon, 08 Dec 2025 13:29:10 +0000</pubDate>
+      <guid>http://localhost:1313/tags/death/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Entertaining</title>
+      <link>http://localhost:1313/tags/entertaining/</link>
+      <pubDate>Mon, 08 Dec 2025 13:29:10 +0000</pubDate>
+      <guid>http://localhost:1313/tags/entertaining/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Friendship</title>
+      <link>http://localhost:1313/tags/friendship/</link>
+      <pubDate>Mon, 08 Dec 2025 13:29:10 +0000</pubDate>
+      <guid>http://localhost:1313/tags/friendship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fitness</title>
+      <link>http://localhost:1313/tags/fitness/</link>
+      <pubDate>Sat, 06 Dec 2025 18:56:09 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fitness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Goals</title>
+      <link>http://localhost:1313/tags/goals/</link>
+      <pubDate>Sat, 06 Dec 2025 18:56:09 +0000</pubDate>
+      <guid>http://localhost:1313/tags/goals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Health</title>
+      <link>http://localhost:1313/tags/health/</link>
+      <pubDate>Sat, 06 Dec 2025 18:56:09 +0000</pubDate>
+      <guid>http://localhost:1313/tags/health/</guid>
       <description></description>
     </item>
     <item>
@@ -21,20 +147,6 @@
       <link>http://localhost:1313/tags/letter/</link>
       <pubDate>Wed, 19 Nov 2025 02:01:43 +0000</pubDate>
       <guid>http://localhost:1313/tags/letter/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blog</title>
-      <link>http://localhost:1313/tags/blog/</link>
-      <pubDate>Tue, 18 Nov 2025 23:10:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/blog/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Project</title>
-      <link>http://localhost:1313/tags/project/</link>
-      <pubDate>Tue, 18 Nov 2025 23:10:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/project/</guid>
       <description></description>
     </item>
   </channel>

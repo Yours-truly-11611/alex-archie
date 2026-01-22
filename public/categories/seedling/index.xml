@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seedling on Alex Again</title>
+    <link>http://localhost:1313/categories/seedling/</link>
+    <description>Recent content in Seedling on Alex Again</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Athul</copyright>
+    <lastBuildDate>Tue, 23 Dec 2025 06:25:57 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/seedling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pros and Cons of Personal Branding</title>
+      <link>http://localhost:1313/posts/pros_and_cons_of_personal_branding/</link>
+      <pubDate>Tue, 23 Dec 2025 03:22:24 +0000</pubDate>
+      <guid>http://localhost:1313/posts/pros_and_cons_of_personal_branding/</guid>
+      <description>&lt;p&gt;&lt;em&gt;seedling thought&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Is it impossible to avoid being branded as something in the digital age?&#xA;How would I take charge of it without commodifying myself?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
