@@ -1,5 +1,5 @@
 +++
-title = 'What Copywriting Actually Is (And WHy Your Business Needs It)'
+title = 'What Copywriting Actually Is (And Why Your Business Needs It)'
 description = 'Are you a small business confused about copywriting? (It’s persuasive writing.) Learn the difference between copy, copyright, and content, and how to use copy to grow your business.'
 tags = ['copywriting', 'content strategy', 'SEO', 'small business tips']
 date = '2026-01-22T08:58:57.563896Z'
@@ -7,7 +7,7 @@ draft = false
 categories = ['writing', 'marketing', 'business']
 author = 'Alex'
 keywords = ['copywriting vs content writing', 'what is copywriting', 'business copywriting tips', 'website copy for small business', 'about page best practices', 'landing page tips']
-lastmod = '2026-01-22T09:07:49.379926Z'
+lastmod = '2026-01-22T09:11:12.445293Z'
 toc = false
 
 +++
@@ -138,23 +138,24 @@ Good copy gives you confidence that your words are working for you, so you can f
 
 Let me be clear: I’m not here to shame anyone’s DIY copy attempts. We’ve all been there. I’ve written some truly terrible copy for my own business. (I once described my services as “holistic solutions for your brand narrative.” Holistic? What was I thinking?)
 But there are some really common reasons why the copy you write for yourself often doesn’t work the way you hope:
-You’re too close to your business. This is called the “curse of knowledge,” and it’s a real problem. 
 
-You know your product or service so intimately that you forget what it’s like to encounter it for the first time. 
+- You’re too close to your business. This is called the “curse of knowledge,” and it’s a real problem. 
 
-You use jargon without realizing it’s jargon. 
+- You know your product or service so intimately that you forget what it’s like to encounter it for the first time. 
 
-You skip over explanations because obviously everyone knows that part. (They don’t.) 
+- You use jargon without realizing it’s jargon. 
 
-You assume people care about the things you care about. (They might not, at least not yet.)
+- You skip over explanations because obviously everyone knows that part. (They don’t.) 
 
-You’re writing features, not benefits. I mentioned this earlier, but it’s worth expanding on. Features are what your product has or is. Benefits are what your product does for the customer—how it makes their life better, easier, safer, more fun. Most business owners instinctively write features because those are concrete and measurable. But people don’t buy features; they buy better versions of their lives.
+- You assume people care about the things you care about. (They might not, at least not yet.)
 
-Your tone is off. Either you’re being too formal and corporate (because you think that’s what “professional” sounds like), or you’re being too casual (because someone told you to “be authentic”). The right tone depends entirely on your brand and your audience, and finding that sweet spot is genuinely hard when you’re writing for yourself.
+- You’re writing features, not benefits. I mentioned this earlier, but it’s worth expanding on. Features are what your product has or is. Benefits are what your product does for the customer—how it makes their life better, easier, safer, more fun. Most business owners instinctively write features because those are concrete and measurable. But people don’t buy features; they buy better versions of their lives.
 
-You’re burying the important stuff. You start with context and backstory and explanations, and by the time you get to the point, your reader has already left. Or you’re so worried about sounding “salesy” that you never actually tell people what to do next. Good copy gets to the point quickly and isn’t afraid to ask for the action you want.
+- Your tone is off. Either you’re being too formal and corporate (because you think that’s what “professional” sounds like), or you’re being too casual (because someone told you to “be authentic”). The right tone depends entirely on your brand and your audience, and finding that sweet spot is genuinely hard when you’re writing for yourself.
 
-You’ve rewritten it so many times you can’t see it anymore. You’ve stared at that homepage for hours. You’ve tweaked every word. You’ve asked your spouse, your friend, and your dog for feedback. And now you have no idea if it’s good or if it’s garbage because you’ve completely lost perspective.
+- You’re burying the important stuff. You start with context and backstory and explanations, and by the time you get to the point, your reader has already left. Or you’re so worried about sounding “salesy” that you never actually tell people what to do next. Good copy gets to the point quickly and isn’t afraid to ask for the action you want.
+
+- You’ve rewritten it so many times you can’t see it anymore. You’ve stared at that homepage for hours. You’ve tweaked every word. You’ve asked your spouse, your friend, and your dog for feedback. And now you have no idea if it’s good or if it’s garbage because you’ve completely lost perspective.
 
 All of this is completely understandable. You’re running a business, not a copywriting agency. The fact that you’re even thinking about your copy puts you ahead of a lot of people.
 
