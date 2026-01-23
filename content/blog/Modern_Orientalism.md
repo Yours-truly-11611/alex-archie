@@ -11,10 +11,6 @@ lastmod = '2025-12-23T11:25:07.985948Z'
 +++
 
 
-{{< custombox src="images/2025/11/modernorientalism.jpg" 
-alt="Meme on orientalism" >}}
-
-
 *A budding idea in progress*
 
 Weebs.
