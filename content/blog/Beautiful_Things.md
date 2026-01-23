@@ -23,8 +23,6 @@ lastmod = '2026-01-08T17:16:02.208612Z'
 
 *2026 January 6, Tuesday*
 
-![A dark road in Taiwan](/images/darkroad.jpg)
-
 - Areas without streetlights
 - Electronic pianos
 - Pizza delivery services
