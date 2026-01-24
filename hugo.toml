@@ -246,103 +246,39 @@ pluralizelisttitles = false
 #     weight     = 1
 #     parent     = "section.marketing"
 
-[[menu.main]]
-    name       = "All Pages"
-    identifier = "menu.allpages"
-    url        = "/img/template-homepage.png"
-    weight     = 4
-
-[[menu.main]]
-    name       = "Home"
-    identifier = "section.ap-home"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "About"
-    identifier = "section.ap-about"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "Marketing"
-    identifier = "section.ap-marketing"
-    url        = ""
-    weight     = 3
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "Portfolio"
-    identifier = "section.ap-portfolio"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 2
-
-[[menu.main]]
-    name       = "User Pages"
-    identifier = "section.ap-userpages"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 2
-
-[[menu.main]]
-    name       = "Shop"
-    identifier = "section.ap-shop"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 3
-
-[[menu.main]]
-    name       = "Shop - Order Process"
-    identifier = "section.ap-shoporderprocess"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 3
-
-[[menu.main]]
-    name       = "Contact"
-    identifier = "section.ap-contact"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 4
-
-[[menu.main]]
-    name       = "Pages"
-    identifier = "section.ap-pages"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 4
-
-[[menu.main]]
-    name       = "Blog"
-    identifier = "section.ap-blog"
-    url        = "/blog/"
-    weight     = 3
-    parent     = "menu.allpages"
-    post       = 4
-
-[[menu.main]]
-    name       = "Blog Listing Big"
-    url        = "/blog/"
-    weight     = 1
-    parent     = "section.ap-blog"
-
+# Blog menu with dynamic Categories and curated Popular posts
 [[menu.main]]
     name       = "Blog"
     identifier = "menu.blog"
-    url        = "/blog/"
-    weight     = 5
+    url        = ""
+    weight     = 4
+
+# Popular posts section (Categories are generated dynamically in nav.html)
+[[menu.main]]
+    name       = "Popular"
+    identifier = "section.popular"
+    url        = ""
+    weight     = 2
+    parent     = "menu.blog"
+    post       = 2
+
+[[menu.main]]
+    name       = "Beautiful Things"
+    url        = "/blog/2025/12/07/beautiful_things/"
+    weight     = 1
+    parent     = "section.popular"
+
+[[menu.main]]
+    name       = "What Copywriting Actually Is"
+    url        = "/blog/2026/01/22/what_copywriting_actually_is_and_why_your_business_needs_it/"
+    weight     = 2
+    parent     = "section.popular"
+
+[[menu.main]]
+    name       = "Lessons from Solo Travel"
+    url        = "/blog/2025/12/04/lessons_from_long_term_solo_travel/"
+    weight     = 3
+    parent     = "section.popular"
 
 # [[menu.main]]
 #     name       = "FAQ"

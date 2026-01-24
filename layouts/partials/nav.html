@@ -45,6 +45,48 @@
                   {{ end }}
 
                   {{ if .HasChildren }}
+                    <!-- Special case: Blog menu with dynamic categories -->
+                    {{ if eq .Identifier "menu.blog" }}
+                    <li class="dropdown use-yamm yamm-fw {{ $active }}">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ .Name }} <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li>
+                            <div class="yamm-content">
+                            <div class="row">
+                                <div class="col-sm-4">
+                                    <h5>Categories</h5>
+                                    <ul>
+                                    {{ range $current.Site.Taxonomies.categories }}
+                                        {{ if gt (len .Pages) 0 }}
+                                        <li><a href="{{ .Page.Permalink }}">{{ .Page.Title | title }}</a></li>
+                                        {{ end }}
+                                    {{ end }}
+                                    </ul>
+                                </div>
+                                <div class="col-sm-4">
+                                    <h5>Popular</h5>
+                                    <ul>
+                                    {{ range .Children.ByWeight }}
+                                        {{ $column := printf "%s" .Post }}
+                                        {{ if eq $column "2" }}
+                                            {{ if .HasChildren }}
+                                                {{ range .Children.ByWeight }}
+                                                <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                                                {{ end }}
+                                            {{ end }}
+                                        {{ end }}
+                                    {{ end }}
+                                    </ul>
+                                </div>
+                                <div class="col-sm-4">
+                                    <h5><a href="/blog/">All Posts</a></h5>
+                                </div>
+                            </div>
+                            </div>
+                            </li>
+                        </ul>
+                    </li>
+                    {{ else }}
                     <!-- Check if the first child marks a menu section identifier -->
                     {{ $hasSections := (hasPrefix (index .Children 0).Identifier "section.") }}
                     <li class="dropdown{{ if $hasSections }} use-yamm yamm-fw{{end}} {{ $active }}">
@@ -133,6 +175,7 @@
                         </ul>
                         {{ end }}
                     </li>
+                    {{ end }}
                   {{ else }}
                   <li class="dropdown {{ $active }}">
                     <a href="{{ .URL }}">{{ .Name }}</a>
