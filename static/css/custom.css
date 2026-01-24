@@ -1,0 +1,669 @@
+/* ========================================
+   INNOSTART-INSPIRED DESIGN SYSTEM
+   ======================================== */
+
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Space+Grotesk:wght@500;700&display=swap');
+
+/* ----------------------------------------
+   CSS Custom Properties (Design Tokens)
+   ---------------------------------------- */
+:root {
+    /* Colors */
+    --color-black: #000000;
+    --color-white: #F5F2EB;
+    --color-gray-light: #f5f5f5;
+    --color-gray-medium: #7a7a7a;
+    --color-purple: #d8c4ff;
+    --color-pink: #ffd8d9;
+    --color-sage: #e3f3f0;
+    --color-lime: #e7fad4;
+    --color-peach: #f3e8e1;
+    --color-link: #0099ff;
+    --color-orange: #FFA840;
+
+    /* Typography */
+    --font-display: 'Space Grotesk', sans-serif;
+    --font-body: 'Inter', sans-serif;
+
+    /* Spacing */
+    --space-xs: 8px;
+    --space-sm: 12px;
+    --space-md: 20px;
+    --space-lg: 32px;
+    --space-xl: 48px;
+    --space-2xl: 64px;
+    --space-3xl: 80px;
+
+    /* Layout */
+    --max-width: 1440px;
+    --border: 1px solid var(--color-black);
+    --border-subtle: 1px solid var(--color-gray-medium);
+
+    /* Theme accent color overrides (originally green) */
+    --primary-accent: #FFA840;
+    --navbar-border-top: #CC8633;
+    --button-border: #E69538;
+    --link-focus: #CC8633;
+    --form-shadow: rgba(255, 168, 64, 0.6);
+    --pagination-bg: #FFE4BF;
+    --link-hover-bg: #E69538;
+    --navbar-focus: #FFD699;
+}
+
+/* ----------------------------------------
+   Global Resets & Base Styles
+   ---------------------------------------- */
+body {
+    font-family: var(--font-body);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: var(--color-black);
+    background: #F5F2EB;
+}
+
+/* Ensure ALL white backgrounds use paper color */
+html,
+body,
+.navbar,
+.dropdown-menu,
+.box-simple,
+#content,
+#all,
+.container,
+.wrapper,
+.content,
+.main,
+article,
+section,
+aside,
+header,
+footer,
+.post,
+.card,
+.panel,
+.well,
+.modal-content,
+.popover,
+.tooltip-inner,
+input,
+textarea,
+select,
+.form-control,
+.input-group-addon,
+.breadcrumb,
+.pagination > li > a,
+.pagination > li > span,
+.list-group-item,
+.table,
+.table > thead > tr > th,
+.table > tbody > tr > td,
+#blog-listing-big,
+#blog-post,
+.sidebar,
+.widget,
+.recent-posts,
+.testimonials,
+.features,
+.clients,
+.see-more,
+.bar,
+.progress-bar-default,
+blockquote,
+pre,
+code {
+    background-color: #F5F2EB !important;
+}
+
+/* Override any inline white backgrounds */
+[style*="background: white"],
+[style*="background-color: white"],
+[style*="background:#fff"],
+[style*="background-color:#fff"],
+[style*="background: #fff"],
+[style*="background-color: #fff"],
+[style*="background:#ffffff"],
+[style*="background-color:#ffffff"],
+[style*="background: #ffffff"],
+[style*="background-color: #ffffff"] {
+    background-color: #F5F2EB !important;
+}
+
+/* Remove shadows globally - flat aesthetic */
+*,
+*::before,
+*::after {
+    box-shadow: none !important;
+    text-shadow: none !important;
+}
+
+/* ----------------------------------------
+   Typography
+   ---------------------------------------- */
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0;
+    line-height: 1.2;
+}
+
+h1 { font-size: 64px; }
+h2 { font-size: 48px; }
+h3 { font-size: 20px; }
+h4, h5, h6 { font-size: 16px; }
+
+/* Links */
+a {
+    color: var(--color-black);
+    text-decoration: none;
+    border-bottom: 2px solid #FFA840;
+    transition: all 0.2s ease;
+}
+
+a:hover {
+    color: #FFA840;
+    border-bottom-color: #FFA840;
+}
+
+/* ----------------------------------------
+   Buttons
+   ---------------------------------------- */
+.btn,
+button,
+input[type="submit"] {
+    font-family: var(--font-display);
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    background: #FFA840;
+    color: var(--color-black);
+    border: 1px solid #FFA840;
+    padding: 16px 32px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    border-radius: 0;
+}
+
+.btn:hover,
+button:hover,
+input[type="submit"]:hover {
+    background: transparent;
+    color: #FFA840;
+    border-color: #FFA840;
+}
+
+.btn-primary {
+    background: #FFA840;
+    color: var(--color-black);
+    border-color: #FFA840;
+}
+
+.btn-primary:hover {
+    background: transparent;
+    color: #FFA840;
+}
+
+/* ----------------------------------------
+   Section Dividers
+   ---------------------------------------- */
+section {
+    border-bottom: var(--border);
+}
+
+section:last-of-type {
+    border-bottom: none;
+}
+
+/* ----------------------------------------
+   HERO SECTION
+   ---------------------------------------- */
+.hero {
+    background: #FFA840;
+    color: var(--color-black);
+    padding: var(--space-3xl) 0;
+    text-align: center;
+    border-bottom: none;
+}
+
+.hero-content {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 var(--space-md);
+}
+
+.hero-title {
+    font-family: var(--font-display);
+    font-size: 64px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0;
+    line-height: 1.2;
+    margin: 0 0 var(--space-lg) 0;
+    color: var(--color-black);
+}
+
+.hero-subtitle {
+    font-family: var(--font-body);
+    font-size: 16px;
+    font-weight: 400;
+    opacity: 0.8;
+    margin: 0 0 var(--space-xl) 0;
+    line-height: 1.5;
+}
+
+.hero-cta {
+    display: inline-block;
+    font-family: var(--font-display);
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-black);
+    background: #F5F2EB;
+    padding: 16px 32px;
+    text-decoration: none;
+    border: 2px solid #FFA840;
+    transition: all 0.2s ease;
+}
+
+.hero-cta:hover {
+    background: #FFA840;
+    color: var(--color-black);
+    border-color: #FFA840;
+    text-decoration: none;
+}
+
+/* ----------------------------------------
+   Navigation Overrides (Archie-style)
+   ---------------------------------------- */
+.navbar {
+    background: rgba(245, 242, 235, 0.65) !important;
+    backdrop-filter: blur(12px) !important;
+    -webkit-backdrop-filter: blur(12px) !important;
+    border-bottom: var(--border) !important;
+    border-radius: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+.navbar-brand {
+    font-family: var(--font-display) !important;
+    font-size: 16px !important;
+    font-weight: 700 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.05em !important;
+    color: #FFA840 !important;
+    text-decoration: none !important;
+    border-bottom: none !important;
+    padding-bottom: 0 !important;
+    background: transparent !important;
+}
+
+.navbar-brand:hover,
+.navbar-brand:focus {
+    color: #FFA840 !important;
+    background: transparent !important;
+}
+
+.navbar-nav > li > a {
+    font-family: var(--font-display) !important;
+    font-size: 12px !important;
+    font-weight: 500 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.05em !important;
+    color: var(--color-black) !important;
+    text-decoration: none !important;
+    border-bottom: 3px solid var(--color-black) !important;
+    padding-bottom: 2px !important;
+    background: transparent !important;
+    transition: background-color 0.2s ease, color 0.2s ease !important;
+}
+
+.navbar-nav > li > a:hover,
+.navbar-nav > li > a:focus {
+    background-color: var(--color-black) !important;
+    color: var(--color-white) !important;
+}
+
+.navbar-nav > li.active > a,
+.navbar-nav > li.active > a:hover,
+.navbar-nav > li.active > a:focus {
+    background-color: var(--color-black) !important;
+    color: var(--color-white) !important;
+    border-bottom: 3px solid var(--color-black) !important;
+}
+
+/* Remove default Bootstrap hover backgrounds */
+.navbar-nav > li > a:hover,
+.navbar-nav > li > a:focus,
+.nav > li > a:hover,
+.nav > li > a:focus {
+    background-color: var(--color-black) !important;
+}
+
+/* Dropdown menus - Archie style */
+.dropdown-menu {
+    background: var(--color-white) !important;
+    border: var(--border) !important;
+    border-radius: 0 !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+}
+
+.dropdown-menu > li > a {
+    font-family: var(--font-display) !important;
+    font-size: 12px !important;
+    font-weight: 500 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.05em !important;
+    color: var(--color-black) !important;
+    padding: 12px 20px !important;
+    border-bottom: none !important;
+    transition: background-color 0.2s ease, color 0.2s ease !important;
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+    background-color: var(--color-black) !important;
+    color: var(--color-white) !important;
+}
+
+/* ----------------------------------------
+   Content Sections
+   ---------------------------------------- */
+.container {
+    max-width: var(--max-width);
+    padding-left: var(--space-lg);
+    padding-right: var(--space-lg);
+}
+
+/* Section spacing */
+#features,
+#testimonials,
+#blog,
+.see-more,
+.clients {
+    padding: var(--space-2xl) 0;
+}
+
+/* Section headings */
+.heading h2,
+section h2 {
+    font-family: var(--font-display);
+    font-size: 48px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0;
+    margin-bottom: var(--space-xl);
+}
+
+/* ----------------------------------------
+   Blog Posts & Cards
+   ---------------------------------------- */
+.box-simple {
+    background: var(--color-white);
+    border: var(--border);
+    padding: var(--space-lg);
+    transition: all 0.2s ease;
+}
+
+.box-simple:hover {
+    background: var(--color-gray-light);
+}
+
+/* Blog listing */
+.post {
+    border-bottom: var(--border);
+    padding: var(--space-xl) 0;
+    margin-bottom: 0;
+}
+
+.post:last-child {
+    border-bottom: none;
+}
+
+.post h2 a {
+    font-family: var(--font-display);
+    font-size: 20px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: var(--color-black);
+    text-decoration: none;
+}
+
+.post h2 a:hover {
+    color: var(--color-gray-medium);
+}
+
+/* ----------------------------------------
+   Breadcrumbs / Page Headers
+   ---------------------------------------- */
+#heading-breadcrumbs {
+    background: #F5F2EB !important;
+    padding: var(--space-2xl) 0 !important;
+    border-bottom: var(--border);
+}
+
+#heading-breadcrumbs h1 {
+    font-family: var(--font-display) !important;
+    font-size: 48px !important;
+    font-weight: 500 !important;
+    text-transform: uppercase !important;
+    color: var(--color-black) !important;
+    letter-spacing: 0 !important;
+}
+
+#heading-breadcrumbs .breadcrumb {
+    background: transparent !important;
+}
+
+#heading-breadcrumbs .breadcrumb a,
+#heading-breadcrumbs .breadcrumb li {
+    color: var(--color-black) !important;
+    opacity: 0.7;
+    font-family: var(--font-display);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    border-bottom: none;
+}
+
+#heading-breadcrumbs .breadcrumb a:hover {
+    opacity: 1;
+}
+
+/* ----------------------------------------
+   Footer
+   ---------------------------------------- */
+#footer {
+    background: #F5F2EB !important;
+    color: var(--color-black) !important;
+    border-top: var(--border);
+    padding: var(--space-xl) 0;
+}
+
+#footer h4,
+#footer h5,
+#footer p,
+#footer span,
+#footer li,
+#footer .name,
+#footer .blog-entries,
+#footer .item {
+    color: var(--color-black) !important;
+}
+
+#footer h4 {
+    font-family: var(--font-display);
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+#footer h5 a {
+    color: var(--color-black) !important;
+    border-bottom: 2px solid #FFA840;
+}
+
+#footer a {
+    color: var(--color-black) !important;
+}
+
+#footer a:hover {
+    color: #FFA840 !important;
+}
+
+/* Hide copyright section */
+#copyright {
+    display: none;
+}
+
+/* ----------------------------------------
+   Topbar
+   ---------------------------------------- */
+#top {
+    background: #F5F2EB !important;
+    color: var(--color-black) !important;
+    border-bottom: var(--border);
+}
+
+#top a,
+#top .social-links a,
+#top i {
+    color: var(--color-black) !important;
+}
+
+#top a:hover {
+    color: #FFA840 !important;
+}
+
+/* ----------------------------------------
+   Accent Backgrounds (use on sections)
+   ---------------------------------------- */
+.bg-purple { background: var(--color-purple); }
+.bg-pink { background: var(--color-pink); }
+.bg-sage { background: var(--color-sage); }
+.bg-lime { background: var(--color-lime); }
+.bg-peach { background: var(--color-peach); }
+.bg-light { background: var(--color-gray-light); }
+
+/* ----------------------------------------
+   Images
+   ---------------------------------------- */
+.content img,
+article img,
+.post img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Image hover effect */
+.img-hover {
+    overflow: hidden;
+}
+
+.img-hover img {
+    transition: transform 0.3s ease;
+}
+
+.img-hover:hover img {
+    transform: scale(1.05);
+}
+
+/* Blog post image hover - keep orange tint, remove button */
+.box-image-text .text,
+.box-image .text,
+.box-image .name {
+    display: none !important;
+}
+
+.box-image-text .bg,
+.box-image .bg {
+    background: #FFA840 !important;
+}
+
+/* ----------------------------------------
+   Labels & Tags
+   ---------------------------------------- */
+.label,
+.tag,
+.category {
+    font-family: var(--font-display);
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    background: var(--color-gray-light);
+    color: var(--color-black);
+    padding: var(--space-xs) var(--space-sm);
+    border-radius: 0;
+}
+
+/* ----------------------------------------
+   Responsive Adjustments
+   ---------------------------------------- */
+@media (max-width: 992px) {
+    h1, .hero-title { font-size: 56px; }
+    h2 { font-size: 40px; }
+
+    .hero {
+        padding: var(--space-2xl) 0;
+    }
+}
+
+@media (max-width: 768px) {
+    h1, .hero-title { font-size: 40px; }
+    h2 { font-size: 32px; }
+    h3 { font-size: 18px; }
+
+    .hero {
+        padding: var(--space-xl) 0;
+    }
+
+    .container {
+        padding-left: var(--space-md);
+        padding-right: var(--space-md);
+    }
+
+    #features,
+    #testimonials,
+    #blog,
+    .see-more,
+    .clients {
+        padding: var(--space-xl) 0;
+    }
+}
+
+@media (max-width: 480px) {
+    h1, .hero-title { font-size: 32px; }
+    h2 { font-size: 24px; }
+
+    .hero-cta {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+}
+
+/* ----------------------------------------
+   Remove Theme Decorations
+   ---------------------------------------- */
+.dark-mask,
+.owl-carousel .owl-controls,
+.home-carousel {
+    display: none !important;
+}
+
+/* Remove rounded corners globally */
+* {
+    border-radius: 0 !important;
+}
+
+/* Remove gradients */
+.gradient,
+[class*="gradient"] {
+    background: none !important;
+}
