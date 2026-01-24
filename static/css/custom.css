@@ -66,7 +66,6 @@ body {
 /* Ensure ALL white backgrounds use paper color */
 html,
 body,
-.navbar,
 .dropdown-menu,
 .box-simple,
 #content,
@@ -279,13 +278,30 @@ section:last-of-type {
 /* ----------------------------------------
    Navigation Overrides (Archie-style)
    ---------------------------------------- */
-.navbar {
+.navbar,
+.navbar.navbar-default,
+#navbar,
+header .navbar,
+.navbar-affixed-top .navbar,
+.navbar-affixed-top .navbar.navbar-default {
     background: rgba(245, 242, 235, 0.65) !important;
+    background-color: rgba(245, 242, 235, 0.65) !important;
     backdrop-filter: blur(12px) !important;
     -webkit-backdrop-filter: blur(12px) !important;
     border-bottom: var(--border) !important;
     border-radius: 0 !important;
     margin-bottom: 0 !important;
+    position: relative;
+    box-shadow: none !important;
+}
+
+.navbar-affixed-top,
+.navbar-affixed-top.affix,
+header.navbar-affixed-top,
+header.navbar-affixed-top.affix {
+    background: transparent !important;
+    background-color: transparent !important;
+    box-shadow: none !important;
 }
 
 .navbar-brand {
@@ -323,16 +339,16 @@ section:last-of-type {
 
 .navbar-nav > li > a:hover,
 .navbar-nav > li > a:focus {
-    background-color: var(--color-black) !important;
-    color: var(--color-white) !important;
+    background-color: #FFA840 !important;
+    color: var(--color-black) !important;
 }
 
 .navbar-nav > li.active > a,
 .navbar-nav > li.active > a:hover,
 .navbar-nav > li.active > a:focus {
-    background-color: var(--color-black) !important;
-    color: var(--color-white) !important;
-    border-bottom: 3px solid var(--color-black) !important;
+    background-color: #FFA840 !important;
+    color: var(--color-black) !important;
+    border-bottom: 3px solid #FFA840 !important;
 }
 
 /* Remove default Bootstrap hover backgrounds */
@@ -340,7 +356,7 @@ section:last-of-type {
 .navbar-nav > li > a:focus,
 .nav > li > a:hover,
 .nav > li > a:focus {
-    background-color: var(--color-black) !important;
+    background-color: #FFA840 !important;
 }
 
 /* Dropdown menus - Archie style */
@@ -534,10 +550,16 @@ section h2 {
 #top .social-links a,
 #top i {
     color: var(--color-black) !important;
+    background: transparent !important;
+    border-bottom: none !important;
 }
 
-#top a:hover {
+#top a:hover,
+#top a:hover i,
+#top .social-links a:hover,
+#top .social-links a:hover i {
     color: #FFA840 !important;
+    background: transparent !important;
 }
 
 /* ----------------------------------------
@@ -583,6 +605,117 @@ article img,
 .box-image-text .bg,
 .box-image .bg {
     background: #FFA840 !important;
+}
+
+/* Search widget - match button height to input */
+.sidebar-menu .input-group {
+    display: flex;
+}
+
+.sidebar-menu .input-group .form-control {
+    height: 42px;
+    padding: 10px 14px;
+}
+
+.sidebar-menu .input-group .input-group-btn {
+    display: flex;
+}
+
+.sidebar-menu .input-group .input-group-btn .btn {
+    height: 42px;
+    padding: 10px 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Sidebar tags - black text with orange underline */
+.sidebar-menu .tagcloud a,
+.sidebar-menu .tags a,
+.sidebar .tag,
+.sidebar a[href*="/tags/"],
+.panel-body a[href*="/tags/"],
+.tagcloud a {
+    color: #000000 !important;
+    background: transparent !important;
+    border: none !important;
+    border-bottom: 2px solid #FFA840 !important;
+    padding: 2px 0 !important;
+    margin: 4px 8px 4px 0 !important;
+    display: inline-block;
+    text-decoration: none !important;
+}
+
+.sidebar-menu .tagcloud a:hover,
+.sidebar-menu .tags a:hover,
+.sidebar a[href*="/tags/"]:hover,
+.panel-body a[href*="/tags/"]:hover,
+.tagcloud a:hover {
+    color: #FFA840 !important;
+}
+
+/* ----------------------------------------
+   Sidebar Toggle (attached to navbar)
+   ---------------------------------------- */
+.sidebar-toggle {
+    position: absolute;
+    right: 15px;
+    bottom: 0;
+    transform: translateY(100%);
+    z-index: 1001;
+    background: rgba(245, 242, 235, 0.65);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid var(--color-black);
+    border-top: none;
+    padding: 8px 14px;
+    cursor: pointer;
+    font-family: var(--font-display);
+    font-size: 11px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    transition: all 0.2s ease;
+}
+
+.sidebar-toggle:hover {
+    background: #FFA840;
+}
+
+.sidebar-toggle i {
+    margin-right: 6px;
+}
+
+/* Sidebar transition */
+.sidebar,
+#sidebar {
+    transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+/* Hidden sidebar state */
+body.sidebar-hidden .sidebar,
+body.sidebar-hidden #sidebar {
+    transform: translateX(100%);
+    opacity: 0;
+    pointer-events: none;
+}
+
+/* Expand main content when sidebar hidden */
+body.sidebar-hidden .col-md-9 {
+    width: 100%;
+}
+
+body.sidebar-hidden .col-md-3.sidebar {
+    width: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+/* Hide toggle on mobile (sidebar stacks below content) */
+@media (max-width: 991px) {
+    .sidebar-toggle {
+        display: none;
+    }
 }
 
 /* ----------------------------------------
