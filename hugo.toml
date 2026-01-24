@@ -553,9 +553,4 @@ custom_css = ["css/custom.css"]
     author = "authors"
 
 
-[[cascade]]
-  [cascade.params]
-    banner = "img/backgrounds/foggiant.jpg"
-    image = "img/backgrounds/foggiant.jpg" # Most themes use 'image' for thumbnails
-  [cascade._target]
-    path = "/blog/**"
+# Cascade moved to content/blog/_index.md for better reliability
