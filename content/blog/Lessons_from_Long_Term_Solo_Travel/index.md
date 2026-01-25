@@ -4,9 +4,11 @@ description = ''
 tags = ['travel']
 date = '2025-12-04T05:00:00.000Z'
 draft = false
-categories = []
+categories = ['travel', 'personal']
 author = 'Alex'
-lastmod = '2025-12-04T20:03:12.706683Z'
+keywords = ['long term solo travel', 'solo travel', 'solo female traveler']
+lastmod = '2026-01-25T16:07:41.123263Z'
+banner = 'img/taiwanfire.jpg'
 
 +++
 
