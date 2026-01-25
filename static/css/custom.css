@@ -223,17 +223,35 @@ section:last-of-type {
     background: #FFA840;
     color: var(--color-black);
     padding: var(--space-3xl) 0;
-    text-align: center;
     border-bottom: none;
 }
 
-.hero-content {
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 0 var(--space-md);
+.hero-layout {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto auto;
+    grid-template-areas:
+        "image title"
+        "image subtitle"
+        "image cta";
+    align-items: center;
+    gap: 0 var(--space-2xl);
+}
+
+.hero-image {
+    grid-area: image;
+    max-width: 400px;
+    justify-self: center;
+}
+
+.hero-image img {
+    width: 100%;
+    height: auto;
+    display: block;
 }
 
 .hero-title {
+    grid-area: title;
     font-family: var(--font-display);
     font-size: 64px;
     font-weight: 500;
@@ -242,18 +260,25 @@ section:last-of-type {
     line-height: 1.2;
     margin: 0 0 var(--space-lg) 0;
     color: var(--color-black);
+    align-self: end;
+}
+
+.hero-text {
+    display: contents;
 }
 
 .hero-subtitle {
+    grid-area: subtitle;
     font-family: var(--font-body);
     font-size: 16px;
     font-weight: 400;
     opacity: 0.8;
-    margin: 0 0 var(--space-xl) 0;
+    margin: 0 0 var(--space-lg) 0;
     line-height: 1.5;
 }
 
 .hero-cta {
+    grid-area: cta;
     display: inline-block;
     font-family: var(--font-display);
     font-size: 12px;
@@ -266,6 +291,8 @@ section:last-of-type {
     text-decoration: none;
     border: 2px solid #FFA840;
     transition: all 0.2s ease;
+    justify-self: start;
+    align-self: start;
 }
 
 .hero-cta:hover {
@@ -754,6 +781,31 @@ body.sidebar-hidden .col-md-3.sidebar {
 
     .hero {
         padding: var(--space-xl) 0;
+    }
+
+    .hero-layout {
+        grid-template-columns: 1fr;
+        grid-template-areas:
+            "title"
+            "image"
+            "subtitle"
+            "cta";
+        text-align: center;
+        gap: var(--space-md) 0;
+    }
+
+    .hero-image {
+        max-width: 280px;
+        margin: 0 auto;
+    }
+
+    .hero-title {
+        align-self: center;
+        margin-bottom: 0;
+    }
+
+    .hero-cta {
+        justify-self: center;
     }
 
     .container {

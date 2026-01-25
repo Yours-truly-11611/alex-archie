@@ -1,9 +1,14 @@
 <section class="hero">
     <div class="container">
-        <div class="hero-content">
+        <div class="hero-layout">
             <h1 class="hero-title">{{ .Site.Title }}</h1>
-            <p class="hero-subtitle">{{ .Site.Params.defaultDescription | default "Welcome to my blog" }}</p>
-            <a href="/contact/" class="hero-cta">Hello</a>
+            <div class="hero-image">
+                <img src="{{ "img/web/self-colour.png" | relURL }}" alt="Alex" />
+            </div>
+            <div class="hero-text">
+                <p class="hero-subtitle">{{ .Site.Params.defaultDescription | default "Welcome to my blog" }}</p>
+                <a href="/contact/" class="hero-cta">Hello</a>
+            </div>
         </div>
     </div>
 </section>
