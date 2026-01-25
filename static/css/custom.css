@@ -605,6 +605,36 @@ section h2 {
 .bg-light { background: var(--color-gray-light); }
 
 /* ----------------------------------------
+   List Items - Orange Asterisk Bullets
+   ---------------------------------------- */
+article ul,
+.content ul,
+#blog-post ul,
+.post-content ul {
+    list-style: none;
+    padding-left: 1.5em;
+}
+
+article ul li,
+.content ul li,
+#blog-post ul li,
+.post-content ul li {
+    position: relative;
+}
+
+article ul li::before,
+.content ul li::before,
+#blog-post ul li::before,
+.post-content ul li::before {
+    content: '*';
+    font-family: 'Slackside One', cursive;
+    color: #FFA840;
+    position: absolute;
+    left: -1.5em;
+    font-size: 1.2em;
+}
+
+/* ----------------------------------------
    Images
    ---------------------------------------- */
 .content img,
