@@ -1,0 +1,16 @@
+{{- $banner := . -}}
+{{- $image := "" -}}
+{{- $width := "1000" -}}
+{{- $height := "750" -}}
+
+{{- /* Try to get image from assets */ -}}
+{{- $image = resources.Get $banner -}}
+
+{{- if $image -}}
+    {{- /* Resize to standard banner dimensions (1000x750) with crop to fill */ -}}
+    {{- $processed := $image.Fill (printf "%sx%s Center" $width $height) -}}
+    <img src="{{ $processed.RelPermalink }}" class="img-responsive" alt="" width="{{ $processed.Width }}" height="{{ $processed.Height }}" />
+{{- else -}}
+    {{- /* Fallback to static file if not in assets */ -}}
+    <img src="{{ $banner | relURL }}" class="img-responsive" alt="" />
+{{- end -}}
