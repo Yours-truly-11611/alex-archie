@@ -8,7 +8,7 @@ categories = []
 author = 'Alex'
 weight = -10
 lastmod = '2026-01-25T03:29:25.300074Z'
-banner = ''
+banner = 'banner-g.jpg'
 
 +++
 
