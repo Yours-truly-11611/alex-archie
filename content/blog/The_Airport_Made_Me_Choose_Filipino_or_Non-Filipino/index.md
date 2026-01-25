@@ -4,10 +4,10 @@ description = 'A Filipino-American’s first trip to the Philippines: Why visiti
 tags = ['travel', 'memory', 'Culture']
 date = '2026-01-13T22:27:51.881328Z'
 draft = false
-categories = []
+categories = ['travel', 'personal']
 author = 'Alex'
 keywords = ['third culture kid', 'Filipino diaspora', 'Filipino American identity', 'visiting the Philippines for the first time', 'not speaking Tagalog in the Philippines', 'identity crisis', 'belonging and identity', 'Baguio', 'Philippines', 'Filipino culture']
-lastmod = '2026-01-13T22:34:02.782683Z'
+lastmod = '2026-01-25T03:23:47.178951Z'
 toc = false
 
 +++

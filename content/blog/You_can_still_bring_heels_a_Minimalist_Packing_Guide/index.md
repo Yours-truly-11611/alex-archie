@@ -4,9 +4,9 @@ description = 'A one-bag packing guide unlike any other.'
 tags = ['travel', 'opinion']
 date = '2026-01-02T20:48:31.642723Z'
 draft = false
-categories = []
+categories = ['travel', 'gear']
 author = 'Alex'
-lastmod = '2026-01-08T20:13:43.143540Z'
+lastmod = '2026-01-25T03:26:42.493583Z'
 toc = true
 
 +++

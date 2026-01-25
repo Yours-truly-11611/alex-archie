@@ -5,8 +5,9 @@ tags = ['book', 'list']
 date = '2025-12-27T13:44:34.285144Z'
 draft = false
 categories = []
+series = ['Books of the Year']
 author = 'Alex'
-lastmod = '2025-12-30T17:47:38.363286Z'
+lastmod = '2026-01-25T03:26:12.429231Z'
 
 +++
 
