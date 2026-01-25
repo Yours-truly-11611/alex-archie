@@ -1,5 +1,5 @@
 +++
-title = '📌 Beautiful Things'
+title = ' Beautiful Things'
 description = 'A running list of things that I am grateful for or that have supported me in some way.'
 tags = ['list', 'memory']
 date = '2025-12-07T14:52:37.308696Z'
@@ -7,9 +7,11 @@ draft = false
 categories = []
 author = 'Alex'
 weight = -10
-lastmod = '2026-01-08T17:16:02.208612Z'
+lastmod = '2026-01-25T03:29:25.300074Z'
+banner = ''
 
 +++
+
 
 *2026 January 8*
 - Birthday cake mix
