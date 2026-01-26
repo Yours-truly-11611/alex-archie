@@ -413,7 +413,7 @@ custom_css = ["css/custom.css"]
 
 # Enable or disable top bar with social icons
 [params.topbar]
-    enable = true
+    enable = false
     text = ""
 
 # Enable and disable widgets for the right sidebar
