@@ -458,15 +458,14 @@ header.navbar-affixed-top.affix {
 
 .search-toggle {
     font-size: 16px !important;
-    border-bottom: 3px solid var(--color-black) !important;
+    border-bottom: none !important;
     padding: 10px 15px !important;
-    padding-bottom: 2px !important;
     cursor: pointer;
 }
 
 .search-toggle:hover {
-    color: var(--color-black) !important;
-    background-color: #FFA840 !important;
+    color: #FFA840 !important;
+    background: transparent !important;
 }
 
 .search-toggle i {
