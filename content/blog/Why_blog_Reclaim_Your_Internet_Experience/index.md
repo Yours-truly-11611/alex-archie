@@ -3,10 +3,10 @@ title = 'Why do I blog?'
 description = 'To reclaim my internet experience!'
 tags = ['opinion']
 date = '2025-12-20T20:04:21.801092Z'
-draft = false
+draft = true
 categories = ['budding']
 author = 'Alex'
-lastmod = '2025-12-23T03:37:22.845482Z'
+lastmod = '2026-01-26T18:34:13.291942Z'
 
 +++
 
