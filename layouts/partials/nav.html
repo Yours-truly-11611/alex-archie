@@ -22,6 +22,20 @@
 
             <div class="navbar-collapse collapse" id="navigation">
                 <ul class="nav navbar-nav navbar-right">
+                  <!-- Search Toggle -->
+                  <li class="search-toggle-wrapper">
+                    <a href="#" class="search-toggle" id="search-toggle-btn" aria-label="Toggle search">
+                      <i class="fas fa-search"></i>
+                    </a>
+                    <div class="search-input-wrapper" id="search-input-wrapper">
+                      <form action="/search/" method="get" class="navbar-search-form">
+                        <input type="text" name="q" class="search-input" placeholder="Search..." autocomplete="off">
+                        <button type="button" class="search-close" id="search-close-btn" aria-label="Close search">
+                          <i class="fas fa-times"></i>
+                        </button>
+                      </form>
+                    </div>
+                  </li>
                   {{ $current := . }}
 
                   {{ range .Site.Menus.main.ByWeight }}
@@ -54,17 +68,10 @@
                             <div class="yamm-content">
                             <div class="row">
                                 <div class="col-sm-4">
-                                    <h5>Categories</h5>
-                                    <ul>
-                                    {{ range $current.Site.Taxonomies.categories }}
-                                        {{ if gt (len .Pages) 0 }}
-                                        <li><a href="{{ .Page.Permalink }}">{{ .Page.Title | title }}</a></li>
-                                        {{ end }}
-                                    {{ end }}
-                                    </ul>
+                                    <h5><a href="/blog/">All Posts</a></h5>
                                 </div>
                                 <div class="col-sm-4">
-                                    <h5>Popular</h5>
+                                    <h5>Popular Posts</h5>
                                     <ul>
                                     {{ range .Children.ByWeight }}
                                         {{ $column := printf "%s" .Post }}
@@ -79,7 +86,14 @@
                                     </ul>
                                 </div>
                                 <div class="col-sm-4">
-                                    <h5><a href="/blog/">All Posts</a></h5>
+                                    <h5>Categories</h5>
+                                    <ul>
+                                    {{ range $current.Site.Taxonomies.categories }}
+                                        {{ if gt (len .Pages) 0 }}
+                                        <li><a href="{{ .Page.Permalink }}">{{ .Page.Title | title }}</a></li>
+                                        {{ end }}
+                                    {{ end }}
+                                    </ul>
                                 </div>
                             </div>
                             </div>
@@ -210,6 +224,7 @@
 
 <script>
 (function() {
+    // Sidebar toggle
     var toggle = document.getElementById('sidebar-toggle');
     var body = document.body;
     var toggleText = toggle ? toggle.querySelector('.toggle-text') : null;
@@ -228,6 +243,50 @@
             localStorage.setItem('sidebarHidden', isHidden);
             if (toggleText) {
                 toggleText.textContent = isHidden ? 'Show Sidebar' : 'Hide Sidebar';
+            }
+        });
+    }
+
+    // Search toggle
+    var searchToggle = document.getElementById('search-toggle-btn');
+    var searchWrapper = document.getElementById('search-input-wrapper');
+    var searchClose = document.getElementById('search-close-btn');
+    var searchInput = searchWrapper ? searchWrapper.querySelector('.search-input') : null;
+
+    if (searchToggle && searchWrapper) {
+        searchToggle.addEventListener('click', function(e) {
+            e.preventDefault();
+            searchWrapper.classList.add('active');
+            if (searchInput) {
+                searchInput.focus();
+            }
+        });
+
+        if (searchClose) {
+            searchClose.addEventListener('click', function() {
+                searchWrapper.classList.remove('active');
+                if (searchInput) {
+                    searchInput.value = '';
+                }
+            });
+        }
+
+        // Close on escape key
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape' && searchWrapper.classList.contains('active')) {
+                searchWrapper.classList.remove('active');
+                if (searchInput) {
+                    searchInput.value = '';
+                }
+            }
+        });
+
+        // Close when clicking outside
+        document.addEventListener('click', function(e) {
+            if (searchWrapper.classList.contains('active') &&
+                !searchWrapper.contains(e.target) &&
+                !searchToggle.contains(e.target)) {
+                searchWrapper.classList.remove('active');
             }
         });
     }

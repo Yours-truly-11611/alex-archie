@@ -357,7 +357,7 @@ header.navbar-affixed-top.affix {
 
 .navbar-nav > li > a {
     font-family: var(--font-display) !important;
-    font-size: 12px !important;
+    font-size: 16px !important;
     font-weight: 500 !important;
     text-transform: uppercase !important;
     letter-spacing: 0.05em !important;
@@ -402,7 +402,7 @@ header.navbar-affixed-top.affix {
 
 .dropdown-menu > li > a {
     font-family: var(--font-display) !important;
-    font-size: 12px !important;
+    font-size: 14px !important;
     font-weight: 500 !important;
     text-transform: uppercase !important;
     letter-spacing: 0.05em !important;
@@ -416,6 +416,122 @@ header.navbar-affixed-top.affix {
 .dropdown-menu > li > a:focus {
     background-color: var(--color-black) !important;
     color: var(--color-white) !important;
+}
+
+/* Dropdown menu headings */
+.yamm-content h5,
+.dropdown-menu h5 {
+    font-family: var(--font-display) !important;
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.05em !important;
+    color: var(--color-black) !important;
+    margin-bottom: 12px !important;
+}
+
+.yamm-content h5 a,
+.dropdown-menu h5 a {
+    color: var(--color-black) !important;
+    border-bottom: 3px solid #FFA840 !important;
+    padding-bottom: 2px !important;
+}
+
+.yamm-content h5 a:hover,
+.dropdown-menu h5 a:hover {
+    background-color: #FFA840 !important;
+}
+
+/* ----------------------------------------
+   Navbar Search Toggle
+   ---------------------------------------- */
+.search-toggle-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.search-toggle {
+    font-size: 16px !important;
+    border-bottom: none !important;
+    padding: 10px 15px !important;
+    cursor: pointer;
+}
+
+.search-toggle:hover {
+    color: #FFA840 !important;
+    background: transparent !important;
+}
+
+.search-toggle i {
+    transition: color 0.2s ease;
+}
+
+.search-input-wrapper {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    opacity: 0;
+    visibility: hidden;
+    width: 0;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    background: rgba(245, 242, 235, 0.95);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+}
+
+.search-input-wrapper.active {
+    opacity: 1;
+    visibility: visible;
+    width: 280px;
+    padding: 0;
+}
+
+.navbar-search-form {
+    display: flex;
+    align-items: center;
+    border: 1px solid var(--color-black);
+    margin: 0;
+}
+
+.search-input {
+    font-family: var(--font-display) !important;
+    font-size: 14px !important;
+    padding: 10px 14px !important;
+    border: none !important;
+    background: transparent !important;
+    outline: none !important;
+    flex: 1;
+    min-width: 0;
+}
+
+.search-input::placeholder {
+    color: var(--color-gray-medium);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.search-close {
+    background: transparent !important;
+    border: none !important;
+    padding: 10px 14px !important;
+    cursor: pointer;
+    color: var(--color-black);
+    transition: color 0.2s ease;
+}
+
+.search-close:hover {
+    color: #FFA840 !important;
+    background: transparent !important;
+}
+
+/* Mobile adjustments for search */
+@media (max-width: 768px) {
+    .search-input-wrapper.active {
+        width: 200px;
+    }
 }
 
 /* ----------------------------------------
