@@ -7,9 +7,9 @@ draft = false
 categories = ['writing', 'marketing', 'business']
 author = 'Alex'
 keywords = ['copywriting vs content writing', 'what is copywriting', 'business copywriting tips', 'website copy for small business', 'about page best practices', 'landing page tips']
-lastmod = '2026-01-22T09:11:12.445293Z'
+lastmod = '2026-01-26T02:26:51.461491Z'
 toc = true
-banner = "img/banners/banner-4.jpg"
+banner = 'img/banners/banner-4.jpg'
 
 +++
 
@@ -201,11 +201,16 @@ Whether you decide to hire a copywriter or tackle some improvements yourself, th
 Your copy is working for you 24/7—on your website while you sleep, in emails long after you’ve sent them, on social media when you’re spending time with your family. It’s worth making sure it’s saying the right things in the right way.
 
 Want to do a quick audit of your current copy? Ask yourself these questions:
-∙	Can a stranger who lands on my homepage understand what I do in 5 seconds or less?
-∙	Does my copy focus on benefits (what changes for the customer) or features (what my thing has or is)?
-∙	Is my About page actually about how I help my customer, or is it just my resume?
-∙	Do I have clear calls-to-action telling people what to do next?
-∙	Does my brand voice sound like me, or does it sound like corporate jargon?
+
+-	Can a stranger who lands on my homepage understand what I do in 5 seconds or less?
+
+- Does my copy focus on benefits (what changes for the customer) or features (what my thing has or is)?
+
+- Is my About page actually about how I help my customer, or is it just my resume?
+
+-	Do I have clear calls-to-action telling people what to do next?
+
+-	Does my brand voice sound like me, or does it sound like corporate jargon?
 
 If you answered “no” or “I’m not sure” to any of these, that’s a good indication your copy could use some work.
 
