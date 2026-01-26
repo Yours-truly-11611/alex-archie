@@ -432,6 +432,11 @@ header.navbar-affixed-top.affix {
 
 .yamm-content h5 a,
 .dropdown-menu h5 a {
+    font-family: var(--font-display) !important;
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.05em !important;
     color: var(--color-black) !important;
     border-bottom: 3px solid #FFA840 !important;
     padding-bottom: 2px !important;
@@ -453,14 +458,15 @@ header.navbar-affixed-top.affix {
 
 .search-toggle {
     font-size: 16px !important;
-    border-bottom: none !important;
+    border-bottom: 3px solid var(--color-black) !important;
     padding: 10px 15px !important;
+    padding-bottom: 2px !important;
     cursor: pointer;
 }
 
 .search-toggle:hover {
-    color: #FFA840 !important;
-    background: transparent !important;
+    color: var(--color-black) !important;
+    background-color: #FFA840 !important;
 }
 
 .search-toggle i {
